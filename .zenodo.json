@@ -1,0 +1,46 @@
+{
+  "title": "Cayley graphs and state transfer: data and code",
+  "upload_type": "dataset",
+  "version": "1.0.0",
+  "description": "<p>Data and SageMath code accompanying the paper <em>Perfect state transfer and Cayley presentations</em> by A. S. Árnadóttir and K. Guo (arXiv:2608.20476).</p><ul><li>All connected Cayley graphs on 6 to 29 vertices up to isomorphism (graph6), with the groups of which each is a Cayley graph (GAP SmallGroups ids).</li><li>All connected vertex-transitive graphs on at most 23 vertices with peak state transfer, with partner vertex, time, exact amount, and Cayley groups.</li><li>The census of connected vertex-transitive graphs with perfect state transfer from the paper (complete for at most 30 vertices; partial at 32).</li><li>SageMath code computing all Cayley graphs of a given group, and testing for perfect and peak state transfer.</li></ul><p>Please cite this dataset together with the paper.</p>",
+  "creators": [
+    {
+      "name": "Árnadóttir, Arnbjörg Soffía",
+      "affiliation": "University of Iceland",
+      "orcid": "0000-0003-2733-2542"
+    },
+    {
+      "name": "Guo, Krystal",
+      "affiliation": "University of Amsterdam",
+      "orcid": "0000-0001-8776-537X"
+    }
+  ],
+  "license": "cc-by-4.0",
+  "keywords": [
+    "Cayley graphs",
+    "vertex-transitive graphs",
+    "perfect state transfer",
+    "peak state transfer",
+    "continuous-time quantum walks"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "arXiv:2608.20476",
+      "relation": "isSupplementTo",
+      "scheme": "arxiv",
+      "resource_type": "publication-preprint"
+    },
+    {
+      "identifier": "10.5281/zenodo.4010122",
+      "relation": "references",
+      "scheme": "doi",
+      "resource_type": "dataset"
+    },
+    {
+      "identifier": "arXiv:2505.11986",
+      "relation": "references",
+      "scheme": "arxiv",
+      "resource_type": "publication-preprint"
+    }
+  ]
+}

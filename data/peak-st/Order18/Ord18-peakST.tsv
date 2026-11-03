@@ -1,0 +1,446 @@
+graph6	n	k	charpoly	groups	partner	tau	amount	amount_approx	pst
+Qs??OGC@?O@?GgCcCG_aOOD@?g?	18	3	(x - 3) * (x + 3) * x^4 * (x^2 - 3)^6	(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab	12	1/3*pi	4/81	0.0493827160	no
+Qs??OGC@?O@?GgCcCG_aOOD@?g?	18	3	(x - 3) * (x + 3) * x^4 * (x^2 - 3)^6	(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab	13	1/3*pi	4/81	0.0493827160	no
+Qs??OGC@?O@?GgCcCG_aOOD@?g?	18	3	(x - 3) * (x + 3) * x^4 * (x^2 - 3)^6	(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab	14	1/3*pi	4/81	0.0493827160	no
+Qs??OGC@?O@?GgCcCG_aOOD@?g?	18	3	(x - 3) * (x + 3) * x^4 * (x^2 - 3)^6	(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab	15	1/3*pi	4/81	0.0493827160	no
+Qs??OGC@?O@?GgCcCG_aOOD@?g?	18	3	(x - 3) * (x + 3) * x^4 * (x^2 - 3)^6	(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab	16	1/3*pi	4/81	0.0493827160	no
+Qs??OGC@?O@?GgCcCG_aOOD@?g?	18	3	(x - 3) * (x + 3) * x^4 * (x^2 - 3)^6	(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab	17	1/3*pi	4/81	0.0493827160	no
+Qs_?????AK`MGsDKKgAd?Ig?\??	18	4	(x - 4) * (x + 4) * (x - 2)^4 * (x - 1)^4 * (x + 1)^4 * (x + 2)^4	(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	14	pi	16/81	0.1975308642	no
+Qs_?????AK`MGsDKKgAd?Ig?\??	18	4	(x - 4) * (x + 4) * (x - 2)^4 * (x - 1)^4 * (x + 1)^4 * (x + 2)^4	(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	15	pi	16/81	0.1975308642	no
+Qs_?????AK`MGsDKKgAd?Ig?\??	18	4	(x - 4) * (x + 4) * (x - 2)^4 * (x - 1)^4 * (x + 1)^4 * (x + 2)^4	(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	16	pi	16/81	0.1975308642	no
+Qs_?????AK`MGsDKKgAd?Ig?\??	18	4	(x - 4) * (x + 4) * (x - 2)^4 * (x - 1)^4 * (x + 1)^4 * (x + 2)^4	(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	17	pi	16/81	0.1975308642	no
+Qsc?GGB@?C_oOXGFIGAP@IA?oOG	18	4	(x - 4) * (x - 3)^2 * (x + 3)^2 * (x - 1)^4 * (x + 2)^4 * x^5	(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	7	pi	16/81	0.1975308642	no
+Qsc?GGB@?C_oOXGFIGAP@IA?oOG	18	4	(x - 4) * (x - 3)^2 * (x + 3)^2 * (x - 1)^4 * (x + 2)^4 * x^5	(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	8	pi	16/81	0.1975308642	no
+Qsc?GGB@?C_oOXGFIGAP@IA?oOG	18	4	(x - 4) * (x - 3)^2 * (x + 3)^2 * (x - 1)^4 * (x + 2)^4 * x^5	(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	9	pi	16/81	0.1975308642	no
+Qsc?GGB@?C_oOXGFIGAP@IA?oOG	18	4	(x - 4) * (x - 3)^2 * (x + 3)^2 * (x - 1)^4 * (x + 2)^4 * x^5	(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	10	pi	16/81	0.1975308642	no
+Qsa?????@ed[D[BkKwBH_US@Y_?	18	5	(x - 5) * (x + 5) * (x - 2)^4 * (x - 1)^4 * (x + 1)^4 * (x + 2)^4	(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	10	pi	16/81	0.1975308642	no
+Qsa?????@ed[D[BkKwBH_US@Y_?	18	5	(x - 5) * (x + 5) * (x - 2)^4 * (x - 1)^4 * (x + 1)^4 * (x + 2)^4	(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	11	pi	16/81	0.1975308642	no
+Qsa?????@ed[D[BkKwBH_US@Y_?	18	5	(x - 5) * (x + 5) * (x - 2)^4 * (x - 1)^4 * (x + 1)^4 * (x + 2)^4	(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	12	pi	16/81	0.1975308642	no
+Qsa?????@ed[D[BkKwBH_US@Y_?	18	5	(x - 5) * (x + 5) * (x - 2)^4 * (x - 1)^4 * (x + 1)^4 * (x + 2)^4	(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	13	pi	16/81	0.1975308642	no
+QsaG??A?QUGfHKDKDWOuA[g@pO?	18	5	(x - 5) * (x + 4)^2 * (x - 2)^6 * (x + 1)^9	(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	6	1/3*pi	16/81	0.1975308642	no
+QsaG??A?QUGfHKDKDWOuA[g@pO?	18	5	(x - 5) * (x + 4)^2 * (x - 2)^6 * (x + 1)^9	(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	7	1/3*pi	16/81	0.1975308642	no
+QsaG??A?QUGfHKDKDWOuA[g@pO?	18	5	(x - 5) * (x + 4)^2 * (x - 2)^6 * (x + 1)^9	(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	8	1/3*pi	16/81	0.1975308642	no
+QsaG??A?QUGfHKDKDWOuA[g@pO?	18	5	(x - 5) * (x + 4)^2 * (x - 2)^6 * (x + 1)^9	(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	9	1/3*pi	16/81	0.1975308642	no
+QsaH?_`CaCgKQoPKch?kGIDGWgO	18	5	(x - 5) * (x + 1) * (x - 2)^4 * (x^2 + 2*x - 2)^6	(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab	6	1/3*pi	4/81	0.0493827160	no
+QsaH?_`CaCgKQoPKch?kGIDGWgO	18	5	(x - 5) * (x + 1) * (x - 2)^4 * (x^2 + 2*x - 2)^6	(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab	7	1/3*pi	4/81	0.0493827160	no
+QsaH?_`CaCgKQoPKch?kGIDGWgO	18	5	(x - 5) * (x + 1) * (x - 2)^4 * (x^2 + 2*x - 2)^6	(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab	8	1/3*pi	4/81	0.0493827160	no
+QsaH?_`CaCgKQoPKch?kGIDGWgO	18	5	(x - 5) * (x + 1) * (x - 2)^4 * (x^2 + 2*x - 2)^6	(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab	9	1/3*pi	4/81	0.0493827160	no
+QsaH?_`CaCgKQoPKch?kGIDGWgO	18	5	(x - 5) * (x + 1) * (x - 2)^4 * (x^2 + 2*x - 2)^6	(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab	10	1/3*pi	4/81	0.0493827160	no
+QsaH?_`CaCgKQoPKch?kGIDGWgO	18	5	(x - 5) * (x + 1) * (x - 2)^4 * (x^2 + 2*x - 2)^6	(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab	11	1/3*pi	4/81	0.0493827160	no
+QtaG?C@?jEIFQcPWdO@I@ECGS_W	18	5	(x - 5) * (x - 3) * (x - 2)^4 * x^4 * (x + 1)^4 * (x + 3)^4	(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	14	pi	16/81	0.1975308642	no
+QtaG?C@?jEIFQcPWdO@I@ECGS_W	18	5	(x - 5) * (x - 3) * (x - 2)^4 * x^4 * (x + 1)^4 * (x + 3)^4	(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	15	pi	16/81	0.1975308642	no
+QtaG?C@?jEIFQcPWdO@I@ECGS_W	18	5	(x - 5) * (x - 3) * (x - 2)^4 * x^4 * (x + 1)^4 * (x + 3)^4	(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	16	pi	16/81	0.1975308642	no
+QtaG?C@?jEIFQcPWdO@I@ECGS_W	18	5	(x - 5) * (x - 3) * (x - 2)^4 * x^4 * (x + 1)^4 * (x + 3)^4	(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	17	pi	16/81	0.1975308642	no
+QsaC????ANfM[k\SLkAv?Jk?^O?	18	6	(x - 6) * (x + 6) * x^4 * (x^2 - 3)^6	(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab	12	1/6*pi	4/81	0.0493827160	no
+QsaC????ANfM[k\SLkAv?Jk?^O?	18	6	(x - 6) * (x + 6) * x^4 * (x^2 - 3)^6	(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab	13	1/6*pi	4/81	0.0493827160	no
+QsaC????ANfM[k\SLkAv?Jk?^O?	18	6	(x - 6) * (x + 6) * x^4 * (x^2 - 3)^6	(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab	14	1/6*pi	4/81	0.0493827160	no
+QsaC????ANfM[k\SLkAv?Jk?^O?	18	6	(x - 6) * (x + 6) * x^4 * (x^2 - 3)^6	(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab	15	1/6*pi	4/81	0.0493827160	no
+QsaC????ANfM[k\SLkAv?Jk?^O?	18	6	(x - 6) * (x + 6) * x^4 * (x^2 - 3)^6	(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab	16	1/6*pi	4/81	0.0493827160	no
+QsaC????ANfM[k\SLkAv?Jk?^O?	18	6	(x - 6) * (x + 6) * x^4 * (x^2 - 3)^6	(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab	17	1/6*pi	4/81	0.0493827160	no
+QsaC????BbmM[[B{@}?^_^_@}??	18	6	(x - 6) * (x + 6) * (x - 3)^2 * (x + 3)^2 * x^12	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	10	1/3*pi	4/81	0.0493827160	no
+QsaC????BbmM[[B{@}?^_^_@}??	18	6	(x - 6) * (x + 6) * (x - 3)^2 * (x + 3)^2 * x^12	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	11	1/3*pi	4/81	0.0493827160	no
+QsaC????BbmM[[B{@}?^_^_@}??	18	6	(x - 6) * (x + 6) * (x - 3)^2 * (x + 3)^2 * x^12	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	12	1/3*pi	4/81	0.0493827160	no
+QsaC????BbmM[[B{@}?^_^_@}??	18	6	(x - 6) * (x + 6) * (x - 3)^2 * (x + 3)^2 * x^12	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	13	1/3*pi	4/81	0.0493827160	no
+QsaC????BbmM[[B{@}?^_^_@}??	18	6	(x - 6) * (x + 6) * (x - 3)^2 * (x + 3)^2 * x^12	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	14	1/3*pi	4/81	0.0493827160	no
+QsaC????BbmM[[B{@}?^_^_@}??	18	6	(x - 6) * (x + 6) * (x - 3)^2 * (x + 3)^2 * x^12	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	15	1/3*pi	4/81	0.0493827160	no
+Qsa[p@?SPPgiOsKGCdXDYQPo^_?	18	6	(x - 6) * (x - 3)^2 * x^2 * (x + 2)^3 * (x + 3)^4 * (x - 1)^6	(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	7	pi	4/9	0.4444444444	no
+Qsa[p@?SPPgiOsKGCdXDYQPo^_?	18	6	(x - 6) * (x - 3)^2 * x^2 * (x + 2)^3 * (x + 3)^4 * (x - 1)^6	(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	8	pi	4/9	0.4444444444	no
+Q{a[o?@SP`giOsIGCdhDUQPo^_?	18	6	(x - 6) * (x - 3)^2 * x^2 * (x - 2)^3 * (x + 3)^4 * (x + 1)^6	(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	1	pi	4/9	0.4444444444	no
+Q{a[o?@SP`giOsIGCdhDUQPo^_?	18	6	(x - 6) * (x - 3)^2 * x^2 * (x - 2)^3 * (x + 3)^4 * (x + 1)^6	(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	2	pi	4/9	0.4444444444	no
+Q{fcw@@CXA@HWISKd@ooj@{?FKG	18	6	(x - 6) * (x - 3)^4 * x^4 * (x + 2)^9	(18,3):C3xS3:nonab	8	1/3*pi	4/81	0.0493827160	no
+Q{fcw@@CXA@HWISKd@ooj@{?FKG	18	6	(x - 6) * (x - 3)^4 * x^4 * (x + 2)^9	(18,3):C3xS3:nonab	9	1/3*pi	4/81	0.0493827160	no
+Q{fcw@@CXA@HWISKd@ooj@{?FKG	18	6	(x - 6) * (x - 3)^4 * x^4 * (x + 2)^9	(18,3):C3xS3:nonab	10	1/3*pi	4/81	0.0493827160	no
+Q{fcw@@CXA@HWISKd@ooj@{?FKG	18	6	(x - 6) * (x - 3)^4 * x^4 * (x + 2)^9	(18,3):C3xS3:nonab	11	1/3*pi	4/81	0.0493827160	no
+QsaCC???BNne]k][I}A^_Nw?~O?	18	7	(x - 7) * (x + 7) * (x - 2)^2 * (x + 2)^2 * (x - 1)^6 * (x + 1)^6	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	10	pi	4/81	0.0493827160	no
+QsaCC???BNne]k][I}A^_Nw?~O?	18	7	(x - 7) * (x + 7) * (x - 2)^2 * (x + 2)^2 * (x - 1)^6 * (x + 1)^6	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	11	pi	4/81	0.0493827160	no
+QsaCC???BNne]k][I}A^_Nw?~O?	18	7	(x - 7) * (x + 7) * (x - 2)^2 * (x + 2)^2 * (x - 1)^6 * (x + 1)^6	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	12	pi	4/81	0.0493827160	no
+QsaCC???BNne]k][I}A^_Nw?~O?	18	7	(x - 7) * (x + 7) * (x - 2)^2 * (x + 2)^2 * (x - 1)^6 * (x + 1)^6	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	13	pi	4/81	0.0493827160	no
+QsaCC???BNne]k][I}A^_Nw?~O?	18	7	(x - 7) * (x + 7) * (x - 2)^2 * (x + 2)^2 * (x - 1)^6 * (x + 1)^6	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	14	pi	4/81	0.0493827160	no
+QsaCC???BNne]k][I}A^_Nw?~O?	18	7	(x - 7) * (x + 7) * (x - 2)^2 * (x + 2)^2 * (x - 1)^6 * (x + 1)^6	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	15	pi	4/81	0.0493827160	no
+QsaCSKG@IqlIMSTjKsplS]k@to?	18	7	(x - 7) * (x + 5)^2 * (x - 1)^3 * (x^3 - 3*x - 1)^4	(18,1):D18:nonab;(18,2):C18:ab	10	1/6*pi	4/81	0.0493827160	no
+QsaCSKG@IqlIMSTjKsplS]k@to?	18	7	(x - 7) * (x + 5)^2 * (x - 1)^3 * (x^3 - 3*x - 1)^4	(18,1):D18:nonab;(18,2):C18:ab	11	1/6*pi	4/81	0.0493827160	no
+QsaCSKG@IqlIMSTjKsplS]k@to?	18	7	(x - 7) * (x + 5)^2 * (x - 1)^3 * (x^3 - 3*x - 1)^4	(18,1):D18:nonab;(18,2):C18:ab	12	1/6*pi	4/81	0.0493827160	no
+QsaCSKG@IqlIMSTjKsplS]k@to?	18	7	(x - 7) * (x + 5)^2 * (x - 1)^3 * (x^3 - 3*x - 1)^4	(18,1):D18:nonab;(18,2):C18:ab	13	1/6*pi	4/81	0.0493827160	no
+QsaCSKG@IqlIMSTjKsplS]k@to?	18	7	(x - 7) * (x + 5)^2 * (x - 1)^3 * (x^3 - 3*x - 1)^4	(18,1):D18:nonab;(18,2):C18:ab	14	1/6*pi	4/81	0.0493827160	no
+QsaCSKG@IqlIMSTjKsplS]k@to?	18	7	(x - 7) * (x + 5)^2 * (x - 1)^3 * (x^3 - 3*x - 1)^4	(18,1):D18:nonab;(18,2):C18:ab	15	1/6*pi	4/81	0.0493827160	no
+QsaKCCI@RSjQMcXXilPjW][@uo?	18	7	(x - 7) * (x + 5)^2 * (x + 2)^4 * (x - 1)^11	(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	10	1/6*pi	4/81	0.0493827160	no
+QsaKCCI@RSjQMcXXilPjW][@uo?	18	7	(x - 7) * (x + 5)^2 * (x + 2)^4 * (x - 1)^11	(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	11	1/6*pi	4/81	0.0493827160	no
+QsaKCCI@RSjQMcXXilPjW][@uo?	18	7	(x - 7) * (x + 5)^2 * (x + 2)^4 * (x - 1)^11	(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	12	1/6*pi	4/81	0.0493827160	no
+QsaKCCI@RSjQMcXXilPjW][@uo?	18	7	(x - 7) * (x + 5)^2 * (x + 2)^4 * (x - 1)^11	(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	13	1/6*pi	4/81	0.0493827160	no
+QsaKCCI@RSjQMcXXilPjW][@uo?	18	7	(x - 7) * (x + 5)^2 * (x + 2)^4 * (x - 1)^11	(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	14	1/6*pi	4/81	0.0493827160	no
+QsaKCCI@RSjQMcXXilPjW][@uo?	18	7	(x - 7) * (x + 5)^2 * (x + 2)^4 * (x - 1)^11	(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	15	1/6*pi	4/81	0.0493827160	no
+Qse[{|OIIPGdOjKECaXCjWZ``Po	18	7	(x - 7) * (x - 4)^2 * (x - 1)^2 * (x + 3)^3 * (x + 2)^4 * x^6	(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	16	pi	4/9	0.4444444444	no
+Qse[{|OIIPGdOjKECaXCjWZ``Po	18	7	(x - 7) * (x - 4)^2 * (x - 1)^2 * (x + 3)^3 * (x + 2)^4 * x^6	(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	17	pi	4/9	0.4444444444	no
+Qtic{w??B@iFQMPMGUyBmNw?~O?	18	7	(x - 7) * (x - 5) * (x + 2)^2 * (x + 4)^2 * (x - 1)^6 * (x + 1)^6	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	2	pi	4/81	0.0493827160	no
+Qtic{w??B@iFQMPMGUyBmNw?~O?	18	7	(x - 7) * (x - 5) * (x + 2)^2 * (x + 4)^2 * (x - 1)^6 * (x + 1)^6	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	3	pi	4/81	0.0493827160	no
+Qtic{w??B@iFQMPMGUyBmNw?~O?	18	7	(x - 7) * (x - 5) * (x + 2)^2 * (x + 4)^2 * (x - 1)^6 * (x + 1)^6	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	4	pi	4/81	0.0493827160	no
+Qtic{w??B@iFQMPMGUyBmNw?~O?	18	7	(x - 7) * (x - 5) * (x + 2)^2 * (x + 4)^2 * (x - 1)^6 * (x + 1)^6	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	5	pi	4/81	0.0493827160	no
+Qtic{w??B@iFQMPMGUyBmNw?~O?	18	7	(x - 7) * (x - 5) * (x + 2)^2 * (x + 4)^2 * (x - 1)^6 * (x + 1)^6	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	6	pi	4/81	0.0493827160	no
+Qtic{w??B@iFQMPMGUyBmNw?~O?	18	7	(x - 7) * (x - 5) * (x + 2)^2 * (x + 4)^2 * (x - 1)^6 * (x + 1)^6	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	7	pi	4/81	0.0493827160	no
+Q{bc{|OQHOE@CjCl`N?QxXKXcMO	18	7	(x - 7) * (x + 3) * (x - 3)^4 * x^4 * (x + 2)^8	(18,3):C3xS3:nonab	6	pi	64/225	0.2844444444	no
+Q{bc{|OQHOE@CjCl`N?QxXKXcMO	18	7	(x - 7) * (x + 3) * (x - 3)^4 * x^4 * (x + 2)^8	(18,3):C3xS3:nonab	7	pi	64/225	0.2844444444	no
+Q{e[{|OKIPGdOjOZdB@GhGck`Pw	18	7	(x - 7) * (x - 4)^2 * (x - 1)^5 * (x + 2)^10	(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	1	1/3*pi	4/9	0.4444444444	no
+Q{e[{|OKIPGdOjOZdB@GhGck`Pw	18	7	(x - 7) * (x - 4)^2 * (x - 1)^5 * (x + 2)^10	(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	2	1/3*pi	4/9	0.4444444444	no
+QsaCCA??B}nu^[]{M}B^_V{?~o?	18	8	(x - 8) * (x + 8) * (x - 1)^8 * (x + 1)^8	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	10	pi	4/81	0.0493827160	no
+QsaCCA??B}nu^[]{M}B^_V{?~o?	18	8	(x - 8) * (x + 8) * (x - 1)^8 * (x + 1)^8	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	11	pi	4/81	0.0493827160	no
+QsaCCA??B}nu^[]{M}B^_V{?~o?	18	8	(x - 8) * (x + 8) * (x - 1)^8 * (x + 1)^8	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	12	pi	4/81	0.0493827160	no
+QsaCCA??B}nu^[]{M}B^_V{?~o?	18	8	(x - 8) * (x + 8) * (x - 1)^8 * (x + 1)^8	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	13	pi	4/81	0.0493827160	no
+QsaCCA??B}nu^[]{M}B^_V{?~o?	18	8	(x - 8) * (x + 8) * (x - 1)^8 * (x + 1)^8	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	14	pi	4/81	0.0493827160	no
+QsaCCA??B}nu^[]{M}B^_V{?~o?	18	8	(x - 8) * (x + 8) * (x - 1)^8 * (x + 1)^8	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	15	pi	4/81	0.0493827160	no
+QsaCCA??B}nu^[]{M}B^_V{?~o?	18	8	(x - 8) * (x + 8) * (x - 1)^8 * (x + 1)^8	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	16	pi	4/81	0.0493827160	no
+QsaCCA??B}nu^[]{M}B^_V{?~o?	18	8	(x - 8) * (x + 8) * (x - 1)^8 * (x + 1)^8	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	17	pi	4/81	0.0493827160	no
+QseSc]M?BamEZFYfKrbBfV{?~o?	18	8	(x - 8) * (x - 4) * (x + 5)^2 * (x - 1)^6 * (x + 1)^8	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	3	pi	4/81	0.0493827160	no
+QseSc]M?BamEZFYfKrbBfV{?~o?	18	8	(x - 8) * (x - 4) * (x + 5)^2 * (x - 1)^6 * (x + 1)^8	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	4	pi	4/81	0.0493827160	no
+QseSc]M?BamEZFYfKrbBfV{?~o?	18	8	(x - 8) * (x - 4) * (x + 5)^2 * (x - 1)^6 * (x + 1)^8	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	5	pi	4/81	0.0493827160	no
+QseSc]M?BamEZFYfKrbBfV{?~o?	18	8	(x - 8) * (x - 4) * (x + 5)^2 * (x - 1)^6 * (x + 1)^8	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	6	pi	4/81	0.0493827160	no
+QseSc]M?BamEZFYfKrbBfV{?~o?	18	8	(x - 8) * (x - 4) * (x + 5)^2 * (x - 1)^6 * (x + 1)^8	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	7	pi	4/81	0.0493827160	no
+QseSc]M?BamEZFYfKrbBfV{?~o?	18	8	(x - 8) * (x - 4) * (x + 5)^2 * (x - 1)^6 * (x + 1)^8	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	8	pi	4/81	0.0493827160	no
+Q{aKmYrT@SKNUQMKIZXXuRdOuMG	18	8	(x - 8) * (x + 1)^2 * x^3 * (x - 2)^6 * (x + 3)^6	(18,3):C3xS3:nonab	1	pi	16/81	0.1975308642	no
+Q{aKmYrT@SKNUQMKIZXXuRdOuMG	18	8	(x - 8) * (x + 1)^2 * x^3 * (x - 2)^6 * (x + 3)^6	(18,3):C3xS3:nonab	2	pi	16/81	0.1975308642	no
+Q{aKmYrT@SKNUQMKIZXXuRdOuMG	18	8	(x - 8) * (x + 1)^2 * x^3 * (x - 2)^6 * (x + 3)^6	(18,3):C3xS3:nonab	5	pi	196/2025	0.0967901235	no
+Q{aKmYrT@SKNUQMKIZXXuRdOuMG	18	8	(x - 8) * (x + 1)^2 * x^3 * (x - 2)^6 * (x + 3)^6	(18,3):C3xS3:nonab	6	pi	196/2025	0.0967901235	no
+Q{aSUMxPaKFAMAW^anoV{^d@}I?	18	8	(x - 8) * (x + 4)^3 * (x - 2)^6 * (x + 1)^8	(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	7	1/3*pi	16/81	0.1975308642	no
+Q{aSUMxPaKFAMAW^anoV{^d@}I?	18	8	(x - 8) * (x + 4)^3 * (x - 2)^6 * (x + 1)^8	(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	8	1/3*pi	16/81	0.1975308642	no
+Q{aSUMxPaKFAMAW^anoV{^d@}I?	18	8	(x - 8) * (x + 4)^3 * (x - 2)^6 * (x + 1)^8	(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	13	1/6*pi	4/81	0.0493827160	no
+Q{aSUMxPaKFAMAW^anoV{^d@}I?	18	8	(x - 8) * (x + 4)^3 * (x - 2)^6 * (x + 1)^8	(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	14	1/6*pi	4/81	0.0493827160	no
+Q{aSUMxPaKFAMAW^anoV{^d@}I?	18	8	(x - 8) * (x + 4)^3 * (x - 2)^6 * (x + 1)^8	(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	15	1/6*pi	4/81	0.0493827160	no
+Q{aSUMxPaKFAMAW^anoV{^d@}I?	18	8	(x - 8) * (x + 4)^3 * (x - 2)^6 * (x + 1)^8	(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	16	1/3*pi	16/81	0.1975308642	no
+Q{aSUMxPaKFAMAW^anoV{^d@}I?	18	8	(x - 8) * (x + 4)^3 * (x - 2)^6 * (x + 1)^8	(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	17	1/3*pi	16/81	0.1975308642	no
+Q{aSUMxVAsMQZALadqbBrDZgJv?	18	8	(x - 8) * (x + 4) * (x - 2)^4 * (x^2 + 2*x - 2)^6	(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab	9	1/6*pi	4/81	0.0493827160	no
+Q{aSUMxVAsMQZALadqbBrDZgJv?	18	8	(x - 8) * (x + 4) * (x - 2)^4 * (x^2 + 2*x - 2)^6	(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab	10	1/6*pi	4/81	0.0493827160	no
+Q{aSUMxVAsMQZALadqbBrDZgJv?	18	8	(x - 8) * (x + 4) * (x - 2)^4 * (x^2 + 2*x - 2)^6	(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab	11	1/6*pi	4/81	0.0493827160	no
+Q{aSUMxVAsMQZALadqbBrDZgJv?	18	8	(x - 8) * (x + 4) * (x - 2)^4 * (x^2 + 2*x - 2)^6	(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab	12	1/6*pi	4/81	0.0493827160	no
+Q{aSUMxVAsMQZALadqbBrDZgJv?	18	8	(x - 8) * (x + 4) * (x - 2)^4 * (x^2 + 2*x - 2)^6	(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab	13	1/6*pi	4/81	0.0493827160	no
+Q{aSUMxVAsMQZALadqbBrDZgJv?	18	8	(x - 8) * (x + 4) * (x - 2)^4 * (x^2 + 2*x - 2)^6	(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab	14	1/6*pi	4/81	0.0493827160	no
+Q{eCMYqR@chcKoS^`^pJ{^b@}Q?	18	8	(x - 8) * (x - 2)^2 * (x + 4)^3 * (x^3 - 3*x + 1)^4	(18,1):D18:nonab;(18,2):C18:ab	13	1/6*pi	4/81	0.0493827160	no
+Q{eCMYqR@chcKoS^`^pJ{^b@}Q?	18	8	(x - 8) * (x - 2)^2 * (x + 4)^3 * (x^3 - 3*x + 1)^4	(18,1):D18:nonab;(18,2):C18:ab	14	1/6*pi	4/81	0.0493827160	no
+Q{eCMYqR@chcKoS^`^pJ{^b@}Q?	18	8	(x - 8) * (x - 2)^2 * (x + 4)^3 * (x^3 - 3*x + 1)^4	(18,1):D18:nonab;(18,2):C18:ab	15	1/6*pi	4/81	0.0493827160	no
+Q}aKSMoQYRGvPmMUFJ@kNL`x~_?	18	8	(x - 8) * (x - 2)^4 * (x + 4)^4 * x^9	(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	9	1/6*pi	4/81	0.0493827160	no
+Q}aKSMoQYRGvPmMUFJ@kNL`x~_?	18	8	(x - 8) * (x - 2)^4 * (x + 4)^4 * x^9	(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	10	1/6*pi	4/81	0.0493827160	no
+Q}aKSMoQYRGvPmMUFJ@kNL`x~_?	18	8	(x - 8) * (x - 2)^4 * (x + 4)^4 * x^9	(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	11	1/6*pi	4/81	0.0493827160	no
+Q}aKSMoQYRGvPmMUFJ@kNL`x~_?	18	8	(x - 8) * (x - 2)^4 * (x + 4)^4 * x^9	(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	12	1/6*pi	4/81	0.0493827160	no
+Q}aKSMoQYRGvPmMUFJ@kNL`x~_?	18	8	(x - 8) * (x - 2)^4 * (x + 4)^4 * x^9	(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	13	1/6*pi	4/81	0.0493827160	no
+Q}aKSMoQYRGvPmMUFJ@kNL`x~_?	18	8	(x - 8) * (x - 2)^4 * (x + 4)^4 * x^9	(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	14	1/6*pi	4/81	0.0493827160	no
+Q}aKSMoQYRGvPmMUFJ@kNL`x~_?	18	8	(x - 8) * (x - 2)^4 * (x + 4)^4 * x^9	(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	15	1/6*pi	4/81	0.0493827160	no
+Q}aKSMoQYRGvPmMUFJ@kNL`x~_?	18	8	(x - 8) * (x - 2)^4 * (x + 4)^4 * x^9	(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	16	1/6*pi	4/81	0.0493827160	no
+Q~aK^~~???_B[F[FmBw[wBfCM[W	18	8	(x - 8) * (x + 4) * (x - 5)^2 * (x + 1)^14	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	12	1/3*pi	4/81	0.0493827160	no
+Q~aK^~~???_B[F[FmBw[wBfCM[W	18	8	(x - 8) * (x + 4) * (x - 5)^2 * (x + 1)^14	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	13	1/3*pi	4/81	0.0493827160	no
+Q~aK^~~???_B[F[FmBw[wBfCM[W	18	8	(x - 8) * (x + 4) * (x - 5)^2 * (x + 1)^14	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	14	1/3*pi	4/81	0.0493827160	no
+Q~aK^~~???_B[F[FmBw[wBfCM[W	18	8	(x - 8) * (x + 4) * (x - 5)^2 * (x + 1)^14	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	15	1/3*pi	4/81	0.0493827160	no
+Q~aK^~~???_B[F[FmBw[wBfCM[W	18	8	(x - 8) * (x + 4) * (x - 5)^2 * (x + 1)^14	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	16	1/3*pi	4/81	0.0493827160	no
+Q~aK^~~???_B[F[FmBw[wBfCM[W	18	8	(x - 8) * (x + 4) * (x - 5)^2 * (x + 1)^14	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	17	1/3*pi	4/81	0.0493827160	no
+QsaCCA?_B~n}^{^{N}B~_^{@~o?	18	9	(x - 9) * (x + 9) * x^16	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	1	1/18*pi	1/81	0.0123456790	no
+QsaCCA?_B~n}^{^{N}B~_^{@~o?	18	9	(x - 9) * (x + 9) * x^16	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	2	1/18*pi	1/81	0.0123456790	no
+QsaCCA?_B~n}^{^{N}B~_^{@~o?	18	9	(x - 9) * (x + 9) * x^16	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	3	1/18*pi	1/81	0.0123456790	no
+QsaCCA?_B~n}^{^{N}B~_^{@~o?	18	9	(x - 9) * (x + 9) * x^16	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	4	1/18*pi	1/81	0.0123456790	no
+QsaCCA?_B~n}^{^{N}B~_^{@~o?	18	9	(x - 9) * (x + 9) * x^16	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	5	1/18*pi	1/81	0.0123456790	no
+QsaCCA?_B~n}^{^{N}B~_^{@~o?	18	9	(x - 9) * (x + 9) * x^16	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	6	1/18*pi	1/81	0.0123456790	no
+QsaCCA?_B~n}^{^{N}B~_^{@~o?	18	9	(x - 9) * (x + 9) * x^16	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	7	1/18*pi	1/81	0.0123456790	no
+QsaCCA?_B~n}^{^{N}B~_^{@~o?	18	9	(x - 9) * (x + 9) * x^16	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	8	1/18*pi	1/81	0.0123456790	no
+QsaCCA?_B~n}^{^{N}B~_^{@~o?	18	9	(x - 9) * (x + 9) * x^16	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	9	1/18*pi	1/81	0.0123456790	no
+QsaCCA?_B~n}^{^{N}B~_^{@~o?	18	9	(x - 9) * (x + 9) * x^16	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	10	1/9*pi	4/81	0.0493827160	no
+QsaCCA?_B~n}^{^{N}B~_^{@~o?	18	9	(x - 9) * (x + 9) * x^16	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	11	1/9*pi	4/81	0.0493827160	no
+QsaCCA?_B~n}^{^{N}B~_^{@~o?	18	9	(x - 9) * (x + 9) * x^16	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	12	1/9*pi	4/81	0.0493827160	no
+QsaCCA?_B~n}^{^{N}B~_^{@~o?	18	9	(x - 9) * (x + 9) * x^16	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	13	1/9*pi	4/81	0.0493827160	no
+QsaCCA?_B~n}^{^{N}B~_^{@~o?	18	9	(x - 9) * (x + 9) * x^16	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	14	1/9*pi	4/81	0.0493827160	no
+QsaCCA?_B~n}^{^{N}B~_^{@~o?	18	9	(x - 9) * (x + 9) * x^16	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	15	1/9*pi	4/81	0.0493827160	no
+QsaCCA?_B~n}^{^{N}B~_^{@~o?	18	9	(x - 9) * (x + 9) * x^16	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	16	1/9*pi	4/81	0.0493827160	no
+QsaCCA?_B~n}^{^{N}B~_^{@~o?	18	9	(x - 9) * (x + 9) * x^16	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	17	1/9*pi	4/81	0.0493827160	no
+Q|vfNNWmB`lFDiBda\OUnDYwLTw	18	9	(x - 9) * (x + 3)^2 * (x - 3)^3 * (x^3 + 3*x^2 - 3)^4	(18,1):D18:nonab;(18,2):C18:ab	12	1/6*pi	4/81	0.0493827160	no
+Q|vfNNWmB`lFDiBda\OUnDYwLTw	18	9	(x - 9) * (x + 3)^2 * (x - 3)^3 * (x^3 + 3*x^2 - 3)^4	(18,1):D18:nonab;(18,2):C18:ab	13	1/6*pi	4/81	0.0493827160	no
+Q|vfNNWmB`lFDiBda\OUnDYwLTw	18	9	(x - 9) * (x + 3)^2 * (x - 3)^3 * (x^3 + 3*x^2 - 3)^4	(18,1):D18:nonab;(18,2):C18:ab	14	1/6*pi	4/81	0.0493827160	no
+Q|vfNNWmB`lFDiBda\OUnDYwLTw	18	9	(x - 9) * (x + 3)^2 * (x - 3)^3 * (x^3 + 3*x^2 - 3)^4	(18,1):D18:nonab;(18,2):C18:ab	15	1/6*pi	4/81	0.0493827160	no
+Q|vfNNWmB`lFDiBda\OUnDYwLTw	18	9	(x - 9) * (x + 3)^2 * (x - 3)^3 * (x^3 + 3*x^2 - 3)^4	(18,1):D18:nonab;(18,2):C18:ab	16	1/6*pi	4/81	0.0493827160	no
+Q|vfNNWmB`lFDiBda\OUnDYwLTw	18	9	(x - 9) * (x + 3)^2 * (x - 3)^3 * (x^3 + 3*x^2 - 3)^4	(18,1):D18:nonab;(18,2):C18:ab	17	1/6*pi	4/81	0.0493827160	no
+Q}q|sA?_B~n}P{P{G}@rfM[wxr_	18	9	(x - 9) * (x - 3) * (x + 6)^2 * x^14	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	1	1/3*pi	4/81	0.0493827160	no
+Q}q|sA?_B~n}P{P{G}@rfM[wxr_	18	9	(x - 9) * (x - 3) * (x + 6)^2 * x^14	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	2	1/3*pi	4/81	0.0493827160	no
+Q}q|sA?_B~n}P{P{G}@rfM[wxr_	18	9	(x - 9) * (x - 3) * (x + 6)^2 * x^14	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	3	1/3*pi	4/81	0.0493827160	no
+Q}q|sA?_B~n}P{P{G}@rfM[wxr_	18	9	(x - 9) * (x - 3) * (x + 6)^2 * x^14	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	4	1/3*pi	4/81	0.0493827160	no
+Q}q|sA?_B~n}P{P{G}@rfM[wxr_	18	9	(x - 9) * (x - 3) * (x + 6)^2 * x^14	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	5	1/3*pi	4/81	0.0493827160	no
+Q}q|sA?_B~n}P{P{G}@rfM[wxr_	18	9	(x - 9) * (x - 3) * (x + 6)^2 * x^14	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	6	1/3*pi	4/81	0.0493827160	no
+Q~rLlqI`XNb]ZIVDBLXKmShl`Xw	18	9	(x - 9) * x^2 * (x + 1)^3 * (x - 2)^6 * (x + 3)^6	(18,3):C3xS3:nonab	12	pi	196/2025	0.0967901235	no
+Q~rLlqI`XNb]ZIVDBLXKmShl`Xw	18	9	(x - 9) * x^2 * (x + 1)^3 * (x - 2)^6 * (x + 3)^6	(18,3):C3xS3:nonab	13	pi	196/2025	0.0967901235	no
+Q~rLlqI`XNb]ZIVDBLXKmShl`Xw	18	9	(x - 9) * x^2 * (x + 1)^3 * (x - 2)^6 * (x + 3)^6	(18,3):C3xS3:nonab	14	pi	16/81	0.1975308642	no
+Q~rLlqI`XNb]ZIVDBLXKmShl`Xw	18	9	(x - 9) * x^2 * (x + 1)^3 * (x - 2)^6 * (x + 3)^6	(18,3):C3xS3:nonab	15	pi	16/81	0.1975308642	no
+Q~~}DF@gjFk]EqDq`xWhlBLsWtw	18	9	(x - 9) * (x - 3)^3 * (x + 3)^6 * x^8	(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	1	1/3*pi	16/81	0.1975308642	no
+Q~~}DF@gjFk]EqDq`xWhlBLsWtw	18	9	(x - 9) * (x - 3)^3 * (x + 3)^6 * x^8	(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	2	1/3*pi	16/81	0.1975308642	no
+Q~~}DF@gjFk]EqDq`xWhlBLsWtw	18	9	(x - 9) * (x - 3)^3 * (x + 3)^6 * x^8	(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	10	1/3*pi	16/81	0.1975308642	no
+Q~~}DF@gjFk]EqDq`xWhlBLsWtw	18	9	(x - 9) * (x - 3)^3 * (x + 3)^6 * x^8	(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	11	1/3*pi	16/81	0.1975308642	no
+Q~~}DF@gjFk]EqDq`xWhlBLsWtw	18	9	(x - 9) * (x - 3)^3 * (x + 3)^6 * x^8	(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	12	1/6*pi	4/81	0.0493827160	no
+Q~~}DF@gjFk]EqDq`xWhlBLsWtw	18	9	(x - 9) * (x - 3)^3 * (x + 3)^6 * x^8	(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	13	1/6*pi	4/81	0.0493827160	no
+Q~~}DF@gjFk]EqDq`xWhlBLsWtw	18	9	(x - 9) * (x - 3)^3 * (x + 3)^6 * x^8	(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	14	1/6*pi	4/81	0.0493827160	no
+Q~~}DF@gjFk]EqDq`xWhlBLsWtw	18	9	(x - 9) * (x - 3)^3 * (x + 3)^6 * x^8	(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	15	1/6*pi	4/81	0.0493827160	no
+Q~~}DF@gjFk]EqDq`xWhlBLsWtw	18	9	(x - 9) * (x - 3)^3 * (x + 3)^6 * x^8	(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	16	1/6*pi	4/81	0.0493827160	no
+Q~~}DF@gjFk]EqDq`xWhlBLsWtw	18	9	(x - 9) * (x - 3)^3 * (x + 3)^6 * x^8	(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	17	1/6*pi	4/81	0.0493827160	no
+Q~~}EFBoxeEXKNKN`x_]XBK{Krw	18	9	(x - 9) * (x - 3)^4 * (x + 3)^4 * (x + 1)^9	(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	10	1/6*pi	4/81	0.0493827160	no
+Q~~}EFBoxeEXKNKN`x_]XBK{Krw	18	9	(x - 9) * (x - 3)^4 * (x + 3)^4 * (x + 1)^9	(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	11	1/6*pi	4/81	0.0493827160	no
+Q~~}EFBoxeEXKNKN`x_]XBK{Krw	18	9	(x - 9) * (x - 3)^4 * (x + 3)^4 * (x + 1)^9	(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	12	1/6*pi	4/81	0.0493827160	no
+Q~~}EFBoxeEXKNKN`x_]XBK{Krw	18	9	(x - 9) * (x - 3)^4 * (x + 3)^4 * (x + 1)^9	(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	13	1/6*pi	4/81	0.0493827160	no
+Q~~}EFBoxeEXKNKN`x_]XBK{Krw	18	9	(x - 9) * (x - 3)^4 * (x + 3)^4 * (x + 1)^9	(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	14	1/6*pi	4/81	0.0493827160	no
+Q~~}EFBoxeEXKNKN`x_]XBK{Krw	18	9	(x - 9) * (x - 3)^4 * (x + 3)^4 * (x + 1)^9	(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	15	1/6*pi	4/81	0.0493827160	no
+Q~~}EFBoxeEXKNKN`x_]XBK{Krw	18	9	(x - 9) * (x - 3)^4 * (x + 3)^4 * (x + 1)^9	(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	16	1/6*pi	4/81	0.0493827160	no
+Q~~}EFBoxeEXKNKN`x_]XBK{Krw	18	9	(x - 9) * (x - 3)^4 * (x + 3)^4 * (x + 1)^9	(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	17	1/6*pi	4/81	0.0493827160	no
+Q~~~FFb_?fbqFTFL`^?NpOF{_^w	18	9	(x - 9) * (x + 5) * (x - 4)^2 * (x + 2)^6 * x^8	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	10	pi	4/81	0.0493827160	no
+Q~~~FFb_?fbqFTFL`^?NpOF{_^w	18	9	(x - 9) * (x + 5) * (x - 4)^2 * (x + 2)^6 * x^8	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	11	pi	4/81	0.0493827160	no
+Q~~~FFb_?fbqFTFL`^?NpOF{_^w	18	9	(x - 9) * (x + 5) * (x - 4)^2 * (x + 2)^6 * x^8	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	12	pi	4/81	0.0493827160	no
+Q~~~FFb_?fbqFTFL`^?NpOF{_^w	18	9	(x - 9) * (x + 5) * (x - 4)^2 * (x + 2)^6 * x^8	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	13	pi	4/81	0.0493827160	no
+Q~~~FFb_?fbqFTFL`^?NpOF{_^w	18	9	(x - 9) * (x + 5) * (x - 4)^2 * (x + 2)^6 * x^8	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	14	pi	4/81	0.0493827160	no
+Q~~~FFb_?fbqFTFL`^?NpOF{_^w	18	9	(x - 9) * (x + 5) * (x - 4)^2 * (x + 2)^6 * x^8	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	15	pi	4/81	0.0493827160	no
+Q~~~~~~_A?cBCFAF_bwC~?V{?~w	18	9	(x - 9) * (x - 7) * x^8 * (x + 2)^8	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	1	pi	4/81	0.0493827160	no
+Q~~~~~~_A?cBCFAF_bwC~?V{?~w	18	9	(x - 9) * (x - 7) * x^8 * (x + 2)^8	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	2	pi	4/81	0.0493827160	no
+Q~~~~~~_A?cBCFAF_bwC~?V{?~w	18	9	(x - 9) * (x - 7) * x^8 * (x + 2)^8	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	3	pi	4/81	0.0493827160	no
+Q~~~~~~_A?cBCFAF_bwC~?V{?~w	18	9	(x - 9) * (x - 7) * x^8 * (x + 2)^8	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	4	pi	4/81	0.0493827160	no
+Q~~~~~~_A?cBCFAF_bwC~?V{?~w	18	9	(x - 9) * (x - 7) * x^8 * (x + 2)^8	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	5	pi	4/81	0.0493827160	no
+Q~~~~~~_A?cBCFAF_bwC~?V{?~w	18	9	(x - 9) * (x - 7) * x^8 * (x + 2)^8	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	6	pi	4/81	0.0493827160	no
+Q~~~~~~_A?cBCFAF_bwC~?V{?~w	18	9	(x - 9) * (x - 7) * x^8 * (x + 2)^8	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	7	pi	4/81	0.0493827160	no
+Q~~~~~~_A?cBCFAF_bwC~?V{?~w	18	9	(x - 9) * (x - 7) * x^8 * (x + 2)^8	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	8	pi	4/81	0.0493827160	no
+Q}mtdBJpuYB~]y\uNuBZoCN{NFw	18	10	(x - 10) * (x + 2)^2 * (x + 5)^2 * (x - 2)^3 * (x - 1)^4 * (x + 1)^6	(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	1	pi	4/9	0.4444444444	no
+Q}mtdBJpuYB~]y\uNuBZoCN{NFw	18	10	(x - 10) * (x + 2)^2 * (x + 5)^2 * (x - 2)^3 * (x - 1)^4 * (x + 1)^6	(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	2	pi	4/9	0.4444444444	no
+Q}nT\bBhMQb~[}Z]BtW}e[fLlcw	18	10	(x - 10) * (x - 2) * (x + 1)^4 * (x + 4)^4 * (x - 1)^8	(18,3):C3xS3:nonab	12	pi	64/225	0.2844444444	no
+Q}nT\bBhMQb~[}Z]BtW}e[fLlcw	18	10	(x - 10) * (x - 2) * (x + 1)^4 * (x + 4)^4 * (x - 1)^8	(18,3):C3xS3:nonab	13	pi	64/225	0.2844444444	no
+Q}rCDuujc{NV\uZyJ}@zoO^{}Fo	18	10	(x - 10) * (x + 5)^2 * (x + 2)^5 * (x - 1)^10	(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	16	1/3*pi	4/9	0.4444444444	no
+Q}rCDuujc{NV\uZyJ}@zoO^{}Fo	18	10	(x - 10) * (x + 5)^2 * (x + 2)^5 * (x - 1)^10	(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	17	1/3*pi	4/9	0.4444444444	no
+Q~~vnZjdcRiqLdQZDLWo~@V{A~w	18	10	(x - 10) * (x - 4)^2 * (x - 1)^4 * (x + 2)^11	(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	15	1/6*pi	4/81	0.0493827160	no
+Q~~vnZjdcRiqLdQZDLWo~@V{A~w	18	10	(x - 10) * (x - 4)^2 * (x - 1)^4 * (x + 2)^11	(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	16	1/6*pi	4/81	0.0493827160	no
+Q~~vnZjdcRiqLdQZDLWo~@V{A~w	18	10	(x - 10) * (x - 4)^2 * (x - 1)^4 * (x + 2)^11	(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	17	1/6*pi	4/81	0.0493827160	no
+Q~~vvNlecJFRP]UdClWa~?n{K^w	18	10	(x - 10) * (x - 4)^2 * (x + 2)^3 * (x^3 + 3*x^2 - 1)^4	(18,1):D18:nonab;(18,2):C18:ab	15	1/6*pi	4/81	0.0493827160	no
+Q~~vvNlecJFRP]UdClWa~?n{K^w	18	10	(x - 10) * (x - 4)^2 * (x + 2)^3 * (x^3 + 3*x^2 - 1)^4	(18,1):D18:nonab;(18,2):C18:ab	16	1/6*pi	4/81	0.0493827160	no
+Q~~vvNlecJFRP]UdClWa~?n{K^w	18	10	(x - 10) * (x - 4)^2 * (x + 2)^3 * (x^3 + 3*x^2 - 1)^4	(18,1):D18:nonab;(18,2):C18:ab	17	1/6*pi	4/81	0.0493827160	no
+Q~~~FFboD?b^D~FuBvGzrB~`_^w	18	10	(x - 10) * (x + 6) * (x - 3)^2 * (x - 1)^2 * x^6 * (x + 2)^6	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	11	pi	4/81	0.0493827160	no
+Q~~~FFboD?b^D~FuBvGzrB~`_^w	18	10	(x - 10) * (x + 6) * (x - 3)^2 * (x - 1)^2 * x^6 * (x + 2)^6	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	12	pi	4/81	0.0493827160	no
+Q~~~FFboD?b^D~FuBvGzrB~`_^w	18	10	(x - 10) * (x + 6) * (x - 3)^2 * (x - 1)^2 * x^6 * (x + 2)^6	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	13	pi	4/81	0.0493827160	no
+Q~~~FFboD?b^D~FuBvGzrB~`_^w	18	10	(x - 10) * (x + 6) * (x - 3)^2 * (x - 1)^2 * x^6 * (x + 2)^6	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	14	pi	4/81	0.0493827160	no
+Q~~~FFboD?b^D~FuBvGzrB~`_^w	18	10	(x - 10) * (x + 6) * (x - 3)^2 * (x - 1)^2 * x^6 * (x + 2)^6	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	15	pi	4/81	0.0493827160	no
+Q~~~FFboD?b^D~FuBvGzrB~`_^w	18	10	(x - 10) * (x + 6) * (x - 3)^2 * (x - 1)^2 * x^6 * (x + 2)^6	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	16	pi	4/81	0.0493827160	no
+Q~~~~~~oD?aJCNBF`RwK~?^|_^w	18	10	(x - 10) * (x - 6) * (x - 1)^2 * (x + 3)^2 * x^6 * (x + 2)^6	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	3	pi	4/81	0.0493827160	no
+Q~~~~~~oD?aJCNBF`RwK~?^|_^w	18	10	(x - 10) * (x - 6) * (x - 1)^2 * (x + 3)^2 * x^6 * (x + 2)^6	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	4	pi	4/81	0.0493827160	no
+Q~~~~~~oD?aJCNBF`RwK~?^|_^w	18	10	(x - 10) * (x - 6) * (x - 1)^2 * (x + 3)^2 * x^6 * (x + 2)^6	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	5	pi	4/81	0.0493827160	no
+Q~~~~~~oD?aJCNBF`RwK~?^|_^w	18	10	(x - 10) * (x - 6) * (x - 1)^2 * (x + 3)^2 * x^6 * (x + 2)^6	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	6	pi	4/81	0.0493827160	no
+Q~~~~~~oD?aJCNBF`RwK~?^|_^w	18	10	(x - 10) * (x - 6) * (x - 1)^2 * (x + 3)^2 * x^6 * (x + 2)^6	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	7	pi	4/81	0.0493827160	no
+Q~~~~~~oD?aJCNBF`RwK~?^|_^w	18	10	(x - 10) * (x - 6) * (x - 1)^2 * (x + 3)^2 * x^6 * (x + 2)^6	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	8	pi	4/81	0.0493827160	no
+Qtr~vIZstX~?]^]^Bzh^iTzle}o	18	11	(x - 11) * (x + 1)^4 * (x + 4)^4 * (x - 1)^9	(18,3):C3xS3:nonab	7	1/3*pi	4/81	0.0493827160	no
+Qtr~vIZstX~?]^]^Bzh^iTzle}o	18	11	(x - 11) * (x + 1)^4 * (x + 4)^4 * (x - 1)^9	(18,3):C3xS3:nonab	8	1/3*pi	4/81	0.0493827160	no
+Qtr~vIZstX~?]^]^Bzh^iTzle}o	18	11	(x - 11) * (x + 1)^4 * (x + 4)^4 * (x - 1)^9	(18,3):C3xS3:nonab	9	1/3*pi	4/81	0.0493827160	no
+Qtr~vIZstX~?]^]^Bzh^iTzle}o	18	11	(x - 11) * (x + 1)^4 * (x + 4)^4 * (x - 1)^9	(18,3):C3xS3:nonab	10	1/3*pi	4/81	0.0493827160	no
+Qv~vFFawVH\AV~N~B~_~xF~c^|_	18	11	(x - 11) * (x + 7) * (x + 1)^4 * (x^3 - 3*x + 1)^4	(18,1):D18:nonab;(18,2):C18:ab	3	1/18*pi	1/81	0.0123456790	no
+Qv~vFFawVH\AV~N~B~_~xF~c^|_	18	11	(x - 11) * (x + 7) * (x + 1)^4 * (x^3 - 3*x + 1)^4	(18,1):D18:nonab;(18,2):C18:ab	4	1/18*pi	1/81	0.0123456790	no
+Qv~vFFawVH\AV~N~B~_~xF~c^|_	18	11	(x - 11) * (x + 7) * (x + 1)^4 * (x^3 - 3*x + 1)^4	(18,1):D18:nonab;(18,2):C18:ab	5	1/18*pi	1/81	0.0123456790	no
+Qv~vFFawVH\AV~N~B~_~xF~c^|_	18	11	(x - 11) * (x + 7) * (x + 1)^4 * (x^3 - 3*x + 1)^4	(18,1):D18:nonab;(18,2):C18:ab	6	1/18*pi	1/81	0.0123456790	no
+Qv~vFFawVH\AV~N~B~_~xF~c^|_	18	11	(x - 11) * (x + 7) * (x + 1)^4 * (x^3 - 3*x + 1)^4	(18,1):D18:nonab;(18,2):C18:ab	7	1/18*pi	1/81	0.0123456790	no
+Qv~vFFawVH\AV~N~B~_~xF~c^|_	18	11	(x - 11) * (x + 7) * (x + 1)^4 * (x^3 - 3*x + 1)^4	(18,1):D18:nonab;(18,2):C18:ab	8	1/18*pi	1/81	0.0123456790	no
+Qv~vFFawVH\AV~N~B~_~xF~c^|_	18	11	(x - 11) * (x + 7) * (x + 1)^4 * (x^3 - 3*x + 1)^4	(18,1):D18:nonab;(18,2):C18:ab	9	1/18*pi	1/81	0.0123456790	no
+Qv~vFFawVH\AV~N~B~_~xF~c^|_	18	11	(x - 11) * (x + 7) * (x + 1)^4 * (x^3 - 3*x + 1)^4	(18,1):D18:nonab;(18,2):C18:ab	10	1/18*pi	1/81	0.0123456790	no
+Qv~vFFawVH\AV~N~B~_~xF~c^|_	18	11	(x - 11) * (x + 7) * (x + 1)^4 * (x^3 - 3*x + 1)^4	(18,1):D18:nonab;(18,2):C18:ab	11	1/18*pi	1/81	0.0123456790	no
+Q~~fuNTr\DrgLvJzfN_|xWn|\No	18	11	(x - 11) * (x + 1)^2 * (x + 4)^2 * (x + 3)^3 * (x - 2)^4 * x^6	(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	16	pi	4/9	0.4444444444	no
+Q~~fuNTr\DrgLvJzfN_|xWn|\No	18	11	(x - 11) * (x + 1)^2 * (x + 4)^2 * (x + 3)^3 * (x - 2)^4 * x^6	(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	17	pi	4/9	0.4444444444	no
+Q~~fuNTr\DrhLzJvff_vxWm|\Fw	18	11	(x - 11) * (x + 1)^2 * (x + 4)^2 * (x - 1)^3 * (x - 2)^4 * (x + 2)^6	(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	10	pi	4/9	0.4444444444	no
+Q~~fuNTr\DrhLzJvff_vxWm|\Fw	18	11	(x - 11) * (x + 1)^2 * (x + 4)^2 * (x - 1)^3 * (x - 2)^4 * (x + 2)^6	(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	11	pi	4/9	0.4444444444	no
+Q~~~FFbwF?{BF~F~b~w~wF~C^{W	18	11	(x - 11) * (x + 7) * (x - 2)^4 * (x + 1)^12	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	3	1/18*pi	1/81	0.0123456790	no
+Q~~~FFbwF?{BF~F~b~w~wF~C^{W	18	11	(x - 11) * (x + 7) * (x - 2)^4 * (x + 1)^12	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	4	1/18*pi	1/81	0.0123456790	no
+Q~~~FFbwF?{BF~F~b~w~wF~C^{W	18	11	(x - 11) * (x + 7) * (x - 2)^4 * (x + 1)^12	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	5	1/18*pi	1/81	0.0123456790	no
+Q~~~FFbwF?{BF~F~b~w~wF~C^{W	18	11	(x - 11) * (x + 7) * (x - 2)^4 * (x + 1)^12	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	6	1/18*pi	1/81	0.0123456790	no
+Q~~~FFbwF?{BF~F~b~w~wF~C^{W	18	11	(x - 11) * (x + 7) * (x - 2)^4 * (x + 1)^12	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	7	1/18*pi	1/81	0.0123456790	no
+Q~~~FFbwF?{BF~F~b~w~wF~C^{W	18	11	(x - 11) * (x + 7) * (x - 2)^4 * (x + 1)^12	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	8	1/18*pi	1/81	0.0123456790	no
+Q~~~FFbwF?{BF~F~b~w~wF~C^{W	18	11	(x - 11) * (x + 7) * (x - 2)^4 * (x + 1)^12	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	9	1/18*pi	1/81	0.0123456790	no
+Q~~~FFbwF?{BF~F~b~w~wF~C^{W	18	11	(x - 11) * (x + 7) * (x - 2)^4 * (x + 1)^12	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	10	1/18*pi	1/81	0.0123456790	no
+Q~~~FFbwF?{BF~F~b~w~wF~C^{W	18	11	(x - 11) * (x + 7) * (x - 2)^4 * (x + 1)^12	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	11	1/18*pi	1/81	0.0123456790	no
+Q~~~FFbwF?{BF~F~b~w~wF~C^{W	18	11	(x - 11) * (x + 7) * (x - 2)^4 * (x + 1)^12	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	12	1/9*pi	4/81	0.0493827160	no
+Q~~~FFbwF?{BF~F~b~w~wF~C^{W	18	11	(x - 11) * (x + 7) * (x - 2)^4 * (x + 1)^12	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	13	1/9*pi	4/81	0.0493827160	no
+Q~~~FFbwF?{BF~F~b~w~wF~C^{W	18	11	(x - 11) * (x + 7) * (x - 2)^4 * (x + 1)^12	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	14	1/9*pi	4/81	0.0493827160	no
+Q~~~FFbwF?{BF~F~b~w~wF~C^{W	18	11	(x - 11) * (x + 7) * (x - 2)^4 * (x + 1)^12	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	15	1/9*pi	4/81	0.0493827160	no
+Q~~~FFbwF?{BF~F~b~w~wF~C^{W	18	11	(x - 11) * (x + 7) * (x - 2)^4 * (x + 1)^12	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	16	1/9*pi	4/81	0.0493827160	no
+Q~~~FFbwF?{BF~F~b~w~wF~C^{W	18	11	(x - 11) * (x + 7) * (x - 2)^4 * (x + 1)^12	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	17	1/9*pi	4/81	0.0493827160	no
+Q~~~~~~wF?{BFFFFbbwF~?~{B~w	18	11	(x - 11) * (x - 5) * (x - 2)^2 * (x + 4)^2 * (x + 1)^12	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	3	1/3*pi	4/81	0.0493827160	no
+Q~~~~~~wF?{BFFFFbbwF~?~{B~w	18	11	(x - 11) * (x - 5) * (x - 2)^2 * (x + 4)^2 * (x + 1)^12	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	4	1/3*pi	4/81	0.0493827160	no
+Q~~~~~~wF?{BFFFFbbwF~?~{B~w	18	11	(x - 11) * (x - 5) * (x - 2)^2 * (x + 4)^2 * (x + 1)^12	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	5	1/3*pi	4/81	0.0493827160	no
+Q~~~~~~wF?{BFFFFbbwF~?~{B~w	18	11	(x - 11) * (x - 5) * (x - 2)^2 * (x + 4)^2 * (x + 1)^12	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	6	1/3*pi	4/81	0.0493827160	no
+Q~~~~~~wF?{BFFFFbbwF~?~{B~w	18	11	(x - 11) * (x - 5) * (x - 2)^2 * (x + 4)^2 * (x + 1)^12	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	7	1/3*pi	4/81	0.0493827160	no
+Q~~~~~~wF?{BFFFFbbwF~?~{B~w	18	11	(x - 11) * (x - 5) * (x - 2)^2 * (x + 4)^2 * (x + 1)^12	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	8	1/3*pi	4/81	0.0493827160	no
+Q{f~~v|u^h\XncT^h^xl}Jvlw^w	18	12	(x - 12) * (x + 4) * (x - 2)^4 * x^4 * (x + 1)^4 * (x + 3)^4	(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	1	pi	16/81	0.1975308642	no
+Q{f~~v|u^h\XncT^h^xl}Jvlw^w	18	12	(x - 12) * (x + 4) * (x - 2)^4 * x^4 * (x + 1)^4 * (x + 3)^4	(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	2	pi	16/81	0.1975308642	no
+Q{f~~v|u^h\XncT^h^xl}Jvlw^w	18	12	(x - 12) * (x + 4) * (x - 2)^4 * x^4 * (x + 1)^4 * (x + 3)^4	(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	3	pi	16/81	0.1975308642	no
+Q{f~~v|u^h\XncT^h^xl}Jvlw^w	18	12	(x - 12) * (x + 4) * (x - 2)^4 * x^4 * (x + 1)^4 * (x + 3)^4	(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	4	pi	16/81	0.1975308642	no
+Q}rEEA~nt}Vwno^~n~r~{^~`~}?	18	12	(x - 12) * (x + 6)^2 * x^15	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	1	1/18*pi	1/81	0.0123456790	no
+Q}rEEA~nt}Vwno^~n~r~{^~`~}?	18	12	(x - 12) * (x + 6)^2 * x^15	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	2	1/18*pi	1/81	0.0123456790	no
+Q}rEEA~nt}Vwno^~n~r~{^~`~}?	18	12	(x - 12) * (x + 6)^2 * x^15	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	3	1/18*pi	1/81	0.0123456790	no
+Q}rEEA~nt}Vwno^~n~r~{^~`~}?	18	12	(x - 12) * (x + 6)^2 * x^15	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	4	1/18*pi	1/81	0.0123456790	no
+Q}rEEA~nt}Vwno^~n~r~{^~`~}?	18	12	(x - 12) * (x + 6)^2 * x^15	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	5	1/18*pi	1/81	0.0123456790	no
+Q}rEEA~nt}Vwno^~n~r~{^~`~}?	18	12	(x - 12) * (x + 6)^2 * x^15	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	6	1/18*pi	1/81	0.0123456790	no
+Q}rEEA~nt}Vwno^~n~r~{^~`~}?	18	12	(x - 12) * (x + 6)^2 * x^15	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	7	1/18*pi	1/81	0.0123456790	no
+Q}rEEA~nt}Vwno^~n~r~{^~`~}?	18	12	(x - 12) * (x + 6)^2 * x^15	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	8	1/18*pi	1/81	0.0123456790	no
+Q}rEEA~nt}Vwno^~n~r~{^~`~}?	18	12	(x - 12) * (x + 6)^2 * x^15	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	9	1/18*pi	1/81	0.0123456790	no
+Q}rEEA~nt}Vwno^~n~r~{^~`~}?	18	12	(x - 12) * (x + 6)^2 * x^15	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	10	1/18*pi	1/81	0.0123456790	no
+Q}rEEA~nt}Vwno^~n~r~{^~`~}?	18	12	(x - 12) * (x + 6)^2 * x^15	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	11	1/18*pi	1/81	0.0123456790	no
+Q}rEEA~nt}Vwno^~n~r~{^~`~}?	18	12	(x - 12) * (x + 6)^2 * x^15	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	12	1/18*pi	1/81	0.0123456790	no
+Q~z\~rtyultufrR^e^rLzUu{|fw	18	12	(x - 12) * x * (x + 3)^4 * (x^2 - 3)^6	(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab	7	1/3*pi	4/81	0.0493827160	no
+Q~z\~rtyultufrR^e^rLzUu{|fw	18	12	(x - 12) * x * (x + 3)^4 * (x^2 - 3)^6	(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab	8	1/3*pi	4/81	0.0493827160	no
+Q~z\~rtyultufrR^e^rLzUu{|fw	18	12	(x - 12) * x * (x + 3)^4 * (x^2 - 3)^6	(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab	9	1/3*pi	4/81	0.0493827160	no
+Q~z\~rtyultufrR^e^rLzUu{|fw	18	12	(x - 12) * x * (x + 3)^4 * (x^2 - 3)^6	(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab	10	1/3*pi	4/81	0.0493827160	no
+Q~z\~rtyultufrR^e^rLzUu{|fw	18	12	(x - 12) * x * (x + 3)^4 * (x^2 - 3)^6	(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab	11	1/3*pi	4/81	0.0493827160	no
+Q~z\~rtyultufrR^e^rLzUu{|fw	18	12	(x - 12) * x * (x + 3)^4 * (x^2 - 3)^6	(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab	12	1/3*pi	4/81	0.0493827160	no
+Q~~~vnnvDww\g|^Fk^or~Dn{N^w	18	12	(x - 12) * (x - 3)^2 * (x + 3)^6 * x^9	(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	9	1/3*pi	16/81	0.1975308642	no
+Q~~~vnnvDww\g|^Fk^or~Dn{N^w	18	12	(x - 12) * (x - 3)^2 * (x + 3)^6 * x^9	(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	10	1/3*pi	16/81	0.1975308642	no
+Q~~~vnnvDww\g|^Fk^or~Dn{N^w	18	12	(x - 12) * (x - 3)^2 * (x + 3)^6 * x^9	(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	11	1/3*pi	16/81	0.1975308642	no
+Q~~~vnnvDww\g|^Fk^or~Dn{N^w	18	12	(x - 12) * (x - 3)^2 * (x + 3)^6 * x^9	(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	12	1/3*pi	16/81	0.1975308642	no
+Q~~~~~~wegtFeVQnhjxk~K^{F~w	18	12	(x - 12) * (x - 4) * (x - 1)^4 * x^4 * (x + 2)^4 * (x + 3)^4	(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	5	pi	16/81	0.1975308642	no
+Q~~~~~~wegtFeVQnhjxk~K^{F~w	18	12	(x - 12) * (x - 4) * (x - 1)^4 * x^4 * (x + 2)^4 * (x + 3)^4	(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	6	pi	16/81	0.1975308642	no
+Q~~~~~~wegtFeVQnhjxk~K^{F~w	18	12	(x - 12) * (x - 4) * (x - 1)^4 * x^4 * (x + 2)^4 * (x + 3)^4	(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	7	pi	16/81	0.1975308642	no
+Q~~~~~~wegtFeVQnhjxk~K^{F~w	18	12	(x - 12) * (x - 4) * (x - 1)^4 * x^4 * (x + 2)^4 * (x + 3)^4	(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	8	pi	16/81	0.1975308642	no
+Q{b~~~{~Fr~U}i}Tf~y~}T~wn~W	18	13	(x - 13) * (x + 5) * (x - 1)^4 * (x^3 + 3*x^2 - 1)^4	(18,1):D18:nonab;(18,2):C18:ab	5	1/18*pi	1/81	0.0123456790	no
+Q{b~~~{~Fr~U}i}Tf~y~}T~wn~W	18	13	(x - 13) * (x + 5) * (x - 1)^4 * (x^3 + 3*x^2 - 1)^4	(18,1):D18:nonab;(18,2):C18:ab	6	1/18*pi	1/81	0.0123456790	no
+Q{b~~~{~Fr~U}i}Tf~y~}T~wn~W	18	13	(x - 13) * (x + 5) * (x - 1)^4 * (x^3 + 3*x^2 - 1)^4	(18,1):D18:nonab;(18,2):C18:ab	7	1/18*pi	1/81	0.0123456790	no
+Q{b~~~{~Fr~U}i}Tf~y~}T~wn~W	18	13	(x - 13) * (x + 5) * (x - 1)^4 * (x^3 + 3*x^2 - 1)^4	(18,1):D18:nonab;(18,2):C18:ab	8	1/18*pi	1/81	0.0123456790	no
+Q{b~~~{~Fr~U}i}Tf~y~}T~wn~W	18	13	(x - 13) * (x + 5) * (x - 1)^4 * (x^3 + 3*x^2 - 1)^4	(18,1):D18:nonab;(18,2):C18:ab	9	1/18*pi	1/81	0.0123456790	no
+Q{b~~~{~Fr~U}i}Tf~y~}T~wn~W	18	13	(x - 13) * (x + 5) * (x - 1)^4 * (x^3 + 3*x^2 - 1)^4	(18,1):D18:nonab;(18,2):C18:ab	10	1/18*pi	1/81	0.0123456790	no
+Q{b~~~{~Fr~U}i}Tf~y~}T~wn~W	18	13	(x - 13) * (x + 5) * (x - 1)^4 * (x^3 + 3*x^2 - 1)^4	(18,1):D18:nonab;(18,2):C18:ab	11	1/18*pi	1/81	0.0123456790	no
+Q{b~~~{~Fr~U}i}Tf~y~}T~wn~W	18	13	(x - 13) * (x + 5) * (x - 1)^4 * (x^3 + 3*x^2 - 1)^4	(18,1):D18:nonab;(18,2):C18:ab	12	1/18*pi	1/81	0.0123456790	no
+Q{b~~~{~Fr~U}i}Tf~y~}T~wn~W	18	13	(x - 13) * (x + 5) * (x - 1)^4 * (x^3 + 3*x^2 - 1)^4	(18,1):D18:nonab;(18,2):C18:ab	13	1/18*pi	1/81	0.0123456790	no
+Q{f~~~{~Nt^R}Y}Ti~y^~L~wn~W	18	13	(x - 13) * (x + 5) * (x - 1)^8 * (x + 2)^8	(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	1	1/3*pi	16/81	0.1975308642	no
+Q{f~~~{~Nt^R}Y}Ti~y^~L~wn~W	18	13	(x - 13) * (x + 5) * (x - 1)^8 * (x + 2)^8	(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	2	1/3*pi	16/81	0.1975308642	no
+Q{f~~~{~Nt^R}Y}Ti~y^~L~wn~W	18	13	(x - 13) * (x + 5) * (x - 1)^8 * (x + 2)^8	(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	3	1/3*pi	16/81	0.1975308642	no
+Q{f~~~{~Nt^R}Y}Ti~y^~L~wn~W	18	13	(x - 13) * (x + 5) * (x - 1)^8 * (x + 2)^8	(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	4	1/3*pi	16/81	0.1975308642	no
+Q{f~~~{~Nt^R}Y}Ti~y^~L~wn~W	18	13	(x - 13) * (x + 5) * (x - 1)^8 * (x + 2)^8	(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	5	1/18*pi	1/81	0.0123456790	no
+Q{f~~~{~Nt^R}Y}Ti~y^~L~wn~W	18	13	(x - 13) * (x + 5) * (x - 1)^8 * (x + 2)^8	(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	6	1/18*pi	1/81	0.0123456790	no
+Q{f~~~{~Nt^R}Y}Ti~y^~L~wn~W	18	13	(x - 13) * (x + 5) * (x - 1)^8 * (x + 2)^8	(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	7	1/18*pi	1/81	0.0123456790	no
+Q{f~~~{~Nt^R}Y}Ti~y^~L~wn~W	18	13	(x - 13) * (x + 5) * (x - 1)^8 * (x + 2)^8	(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	8	1/18*pi	1/81	0.0123456790	no
+Q{f~~~{~Nt^R}Y}Ti~y^~L~wn~W	18	13	(x - 13) * (x + 5) * (x - 1)^8 * (x + 2)^8	(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	9	1/18*pi	1/81	0.0123456790	no
+Q{f~~~{~Nt^R}Y}Ti~y^~L~wn~W	18	13	(x - 13) * (x + 5) * (x - 1)^8 * (x + 2)^8	(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	10	1/18*pi	1/81	0.0123456790	no
+Q{f~~~{~Nt^R}Y}Ti~y^~L~wn~W	18	13	(x - 13) * (x + 5) * (x - 1)^8 * (x + 2)^8	(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	11	1/18*pi	1/81	0.0123456790	no
+Q{f~~~{~Nt^R}Y}Ti~y^~L~wn~W	18	13	(x - 13) * (x + 5) * (x - 1)^8 * (x + 2)^8	(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	12	1/18*pi	1/81	0.0123456790	no
+Q{f~~~{~Nt^R}Y}Ti~y^~L~wn~W	18	13	(x - 13) * (x + 5) * (x - 1)^8 * (x + 2)^8	(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	13	1/18*pi	1/81	0.0123456790	no
+Q}j~~~}~Vt^I}J}Fi~x^}D~{N~w	18	13	(x - 13) * (x + 5) * (x + 2)^4 * (x^3 - 3*x - 1)^4	(18,1):D18:nonab;(18,2):C18:ab	5	1/18*pi	1/81	0.0123456790	no
+Q}j~~~}~Vt^I}J}Fi~x^}D~{N~w	18	13	(x - 13) * (x + 5) * (x + 2)^4 * (x^3 - 3*x - 1)^4	(18,1):D18:nonab;(18,2):C18:ab	6	1/18*pi	1/81	0.0123456790	no
+Q}j~~~}~Vt^I}J}Fi~x^}D~{N~w	18	13	(x - 13) * (x + 5) * (x + 2)^4 * (x^3 - 3*x - 1)^4	(18,1):D18:nonab;(18,2):C18:ab	7	1/18*pi	1/81	0.0123456790	no
+Q}j~~~}~Vt^I}J}Fi~x^}D~{N~w	18	13	(x - 13) * (x + 5) * (x + 2)^4 * (x^3 - 3*x - 1)^4	(18,1):D18:nonab;(18,2):C18:ab	8	1/18*pi	1/81	0.0123456790	no
+Q}j~~~}~Vt^I}J}Fi~x^}D~{N~w	18	13	(x - 13) * (x + 5) * (x + 2)^4 * (x^3 - 3*x - 1)^4	(18,1):D18:nonab;(18,2):C18:ab	9	1/18*pi	1/81	0.0123456790	no
+Q}j~~~}~Vt^I}J}Fi~x^}D~{N~w	18	13	(x - 13) * (x + 5) * (x + 2)^4 * (x^3 - 3*x - 1)^4	(18,1):D18:nonab;(18,2):C18:ab	10	1/18*pi	1/81	0.0123456790	no
+Q}j~~~}~Vt^I}J}Fi~x^}D~{N~w	18	13	(x - 13) * (x + 5) * (x + 2)^4 * (x^3 - 3*x - 1)^4	(18,1):D18:nonab;(18,2):C18:ab	11	1/18*pi	1/81	0.0123456790	no
+Q}j~~~}~Vt^I}J}Fi~x^}D~{N~w	18	13	(x - 13) * (x + 5) * (x + 2)^4 * (x^3 - 3*x - 1)^4	(18,1):D18:nonab;(18,2):C18:ab	12	1/18*pi	1/81	0.0123456790	no
+Q}j~~~}~Vt^I}J}Fi~x^}D~{N~w	18	13	(x - 13) * (x + 5) * (x + 2)^4 * (x^3 - 3*x - 1)^4	(18,1):D18:nonab;(18,2):C18:ab	13	1/18*pi	1/81	0.0123456790	no
+Q}n~}vi|\z^N~k~qK~w~}Q~{t~w	18	13	(x - 13) * (x - 2)^2 * (x + 4)^2 * (x - 1)^4 * (x + 2)^4 * (x + 1)^5	(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	7	pi	16/81	0.1975308642	no
+Q}n~}vi|\z^N~k~qK~w~}Q~{t~w	18	13	(x - 13) * (x - 2)^2 * (x + 4)^2 * (x - 1)^4 * (x + 2)^4 * (x + 1)^5	(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	8	pi	16/81	0.1975308642	no
+Q}n~}vi|\z^N~k~qK~w~}Q~{t~w	18	13	(x - 13) * (x - 2)^2 * (x + 4)^2 * (x - 1)^4 * (x + 2)^4 * (x + 1)^5	(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	9	pi	16/81	0.1975308642	no
+Q}n~}vi|\z^N~k~qK~w~}Q~{t~w	18	13	(x - 13) * (x - 2)^2 * (x + 4)^2 * (x - 1)^4 * (x + 2)^4 * (x + 1)^5	(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	10	pi	16/81	0.1975308642	no
+Q~~~ffo{M^x~r{r{f~x~~N~o~~G	18	13	(x - 13) * (x + 5)^2 * (x - 1)^6 * (x + 1)^9	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	2	1/18*pi	1/81	0.0123456790	no
+Q~~~ffo{M^x~r{r{f~x~~N~o~~G	18	13	(x - 13) * (x + 5)^2 * (x - 1)^6 * (x + 1)^9	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	3	1/18*pi	1/81	0.0123456790	no
+Q~~~ffo{M^x~r{r{f~x~~N~o~~G	18	13	(x - 13) * (x + 5)^2 * (x - 1)^6 * (x + 1)^9	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	4	1/18*pi	1/81	0.0123456790	no
+Q~~~ffo{M^x~r{r{f~x~~N~o~~G	18	13	(x - 13) * (x + 5)^2 * (x - 1)^6 * (x + 1)^9	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	5	1/18*pi	1/81	0.0123456790	no
+Q~~~ffo{M^x~r{r{f~x~~N~o~~G	18	13	(x - 13) * (x + 5)^2 * (x - 1)^6 * (x + 1)^9	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	6	1/18*pi	1/81	0.0123456790	no
+Q~~~ffo{M^x~r{r{f~x~~N~o~~G	18	13	(x - 13) * (x + 5)^2 * (x - 1)^6 * (x + 1)^9	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	7	1/18*pi	1/81	0.0123456790	no
+Q~~~ffo{M^x~r{r{f~x~~N~o~~G	18	13	(x - 13) * (x + 5)^2 * (x - 1)^6 * (x + 1)^9	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	8	1/18*pi	1/81	0.0123456790	no
+Q~~~ffo{M^x~r{r{f~x~~N~o~~G	18	13	(x - 13) * (x + 5)^2 * (x - 1)^6 * (x + 1)^9	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	9	1/18*pi	1/81	0.0123456790	no
+Q~~~ffo{M^x~r{r{f~x~~N~o~~G	18	13	(x - 13) * (x + 5)^2 * (x - 1)^6 * (x + 1)^9	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	10	1/18*pi	1/81	0.0123456790	no
+Q~~~ffo{M^x~r{r{f~x~~N~o~~G	18	13	(x - 13) * (x + 5)^2 * (x - 1)^6 * (x + 1)^9	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	11	1/18*pi	1/81	0.0123456790	no
+Q~~~ffo{M^x~r{r{f~x~~N~o~~G	18	13	(x - 13) * (x + 5)^2 * (x - 1)^6 * (x + 1)^9	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	12	1/18*pi	1/81	0.0123456790	no
+Q~~~ffo{M^x~r{r{f~x~~N~o~~G	18	13	(x - 13) * (x + 5)^2 * (x - 1)^6 * (x + 1)^9	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	13	1/18*pi	1/81	0.0123456790	no
+Q~~~~~~xfBrVfV}Fivy]~K~{l~w	18	13	(x - 13) * (x - 3) * (x - 1)^4 * x^4 * (x + 2)^4 * (x + 3)^4	(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	1	pi	16/81	0.1975308642	no
+Q~~~~~~xfBrVfV}Fivy]~K~{l~w	18	13	(x - 13) * (x - 3) * (x - 1)^4 * x^4 * (x + 2)^4 * (x + 3)^4	(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	2	pi	16/81	0.1975308642	no
+Q~~~~~~xfBrVfV}Fivy]~K~{l~w	18	13	(x - 13) * (x - 3) * (x - 1)^4 * x^4 * (x + 2)^4 * (x + 3)^4	(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	3	pi	16/81	0.1975308642	no
+Q~~~~~~xfBrVfV}Fivy]~K~{l~w	18	13	(x - 13) * (x - 3) * (x - 1)^4 * x^4 * (x + 2)^4 * (x + 3)^4	(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	4	pi	16/81	0.1975308642	no
+Qv~v~~}~Fy~ey~x~[^y~~N~w^~w	18	14	(x - 14) * (x + 4)^2 * (x + 2)^3 * (x - 1)^6 * (x + 1)^6	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	3	1/18*pi	1/81	0.0123456790	no
+Qv~v~~}~Fy~ey~x~[^y~~N~w^~w	18	14	(x - 14) * (x + 4)^2 * (x + 2)^3 * (x - 1)^6 * (x + 1)^6	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	4	1/18*pi	1/81	0.0123456790	no
+Qv~v~~}~Fy~ey~x~[^y~~N~w^~w	18	14	(x - 14) * (x + 4)^2 * (x + 2)^3 * (x - 1)^6 * (x + 1)^6	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	5	1/18*pi	1/81	0.0123456790	no
+Qv~v~~}~Fy~ey~x~[^y~~N~w^~w	18	14	(x - 14) * (x + 4)^2 * (x + 2)^3 * (x - 1)^6 * (x + 1)^6	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	6	1/18*pi	1/81	0.0123456790	no
+Qv~v~~}~Fy~ey~x~[^y~~N~w^~w	18	14	(x - 14) * (x + 4)^2 * (x + 2)^3 * (x - 1)^6 * (x + 1)^6	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	7	1/18*pi	1/81	0.0123456790	no
+Qv~v~~}~Fy~ey~x~[^y~~N~w^~w	18	14	(x - 14) * (x + 4)^2 * (x + 2)^3 * (x - 1)^6 * (x + 1)^6	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	8	1/18*pi	1/81	0.0123456790	no
+Qv~v~~}~Fy~ey~x~[^y~~N~w^~w	18	14	(x - 14) * (x + 4)^2 * (x + 2)^3 * (x - 1)^6 * (x + 1)^6	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	9	1/18*pi	1/81	0.0123456790	no
+Qv~v~~}~Fy~ey~x~[^y~~N~w^~w	18	14	(x - 14) * (x + 4)^2 * (x + 2)^3 * (x - 1)^6 * (x + 1)^6	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	10	1/18*pi	1/81	0.0123456790	no
+Qv~v~~}~Fy~ey~x~[^y~~N~w^~w	18	14	(x - 14) * (x + 4)^2 * (x + 2)^3 * (x - 1)^6 * (x + 1)^6	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	11	1/18*pi	1/81	0.0123456790	no
+Qv~v~~}~Fy~ey~x~[^y~~N~w^~w	18	14	(x - 14) * (x + 4)^2 * (x + 2)^3 * (x - 1)^6 * (x + 1)^6	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	12	1/18*pi	1/81	0.0123456790	no
+Qv~v~~}~Fy~ey~x~[^y~~N~w^~w	18	14	(x - 14) * (x + 4)^2 * (x + 2)^3 * (x - 1)^6 * (x + 1)^6	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	13	1/18*pi	1/81	0.0123456790	no
+Qv~v~~}~Fy~ey~x~[^y~~N~w^~w	18	14	(x - 14) * (x + 4)^2 * (x + 2)^3 * (x - 1)^6 * (x + 1)^6	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	14	1/18*pi	1/81	0.0123456790	no
+Qv~v~~}~Fy~ey~x~[^y~~N~w^~w	18	14	(x - 14) * (x + 4)^2 * (x + 2)^3 * (x - 1)^6 * (x + 1)^6	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	15	pi	4/9	0.4444444444	no
+Qv~v~~}~Fy~ey~x~[^y~~N~w^~w	18	14	(x - 14) * (x + 4)^2 * (x + 2)^3 * (x - 1)^6 * (x + 1)^6	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	16	pi	4/9	0.4444444444	no
+Q~~~~VVz]zu~m~~k~xjN~U~{|~w	18	14	(x - 14) * (x - 2) * (x + 1)^4 * (x^2 + 2*x - 2)^6	(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab	1	1/3*pi	4/81	0.0493827160	no
+Q~~~~VVz]zu~m~~k~xjN~U~{|~w	18	14	(x - 14) * (x - 2) * (x + 1)^4 * (x^2 + 2*x - 2)^6	(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab	2	1/3*pi	4/81	0.0493827160	no
+Q~~~~VVz]zu~m~~k~xjN~U~{|~w	18	14	(x - 14) * (x - 2) * (x + 1)^4 * (x^2 + 2*x - 2)^6	(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab	3	1/3*pi	4/81	0.0493827160	no
+Q~~~~VVz]zu~m~~k~xjN~U~{|~w	18	14	(x - 14) * (x - 2) * (x + 1)^4 * (x^2 + 2*x - 2)^6	(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab	4	1/3*pi	4/81	0.0493827160	no
+Q~~~~VVz]zu~m~~k~xjN~U~{|~w	18	14	(x - 14) * (x - 2) * (x + 1)^4 * (x^2 + 2*x - 2)^6	(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab	5	1/3*pi	4/81	0.0493827160	no
+Q~~~~VVz]zu~m~~k~xjN~U~{|~w	18	14	(x - 14) * (x - 2) * (x + 1)^4 * (x^2 + 2*x - 2)^6	(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab	6	1/3*pi	4/81	0.0493827160	no
+Q~~~~~~~Fw~bw~w~{^w~~F~{^~w	18	14	(x - 14) * (x + 4)^2 * (x - 2)^3 * (x + 1)^12	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	1	1/3*pi	4/9	0.4444444444	no
+Q~~~~~~~Fw~bw~w~{^w~~F~{^~w	18	14	(x - 14) * (x + 4)^2 * (x - 2)^3 * (x + 1)^12	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	2	1/3*pi	4/9	0.4444444444	no
+Q~~~~~~~Fw~bw~w~{^w~~F~{^~w	18	14	(x - 14) * (x + 4)^2 * (x - 2)^3 * (x + 1)^12	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	3	1/18*pi	1/81	0.0123456790	no
+Q~~~~~~~Fw~bw~w~{^w~~F~{^~w	18	14	(x - 14) * (x + 4)^2 * (x - 2)^3 * (x + 1)^12	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	4	1/18*pi	1/81	0.0123456790	no
+Q~~~~~~~Fw~bw~w~{^w~~F~{^~w	18	14	(x - 14) * (x + 4)^2 * (x - 2)^3 * (x + 1)^12	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	5	1/18*pi	1/81	0.0123456790	no
+Q~~~~~~~Fw~bw~w~{^w~~F~{^~w	18	14	(x - 14) * (x + 4)^2 * (x - 2)^3 * (x + 1)^12	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	6	1/18*pi	1/81	0.0123456790	no
+Q~~~~~~~Fw~bw~w~{^w~~F~{^~w	18	14	(x - 14) * (x + 4)^2 * (x - 2)^3 * (x + 1)^12	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	7	1/18*pi	1/81	0.0123456790	no
+Q~~~~~~~Fw~bw~w~{^w~~F~{^~w	18	14	(x - 14) * (x + 4)^2 * (x - 2)^3 * (x + 1)^12	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	8	1/18*pi	1/81	0.0123456790	no
+Q~~~~~~~Fw~bw~w~{^w~~F~{^~w	18	14	(x - 14) * (x + 4)^2 * (x - 2)^3 * (x + 1)^12	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	9	1/18*pi	1/81	0.0123456790	no
+Q~~~~~~~Fw~bw~w~{^w~~F~{^~w	18	14	(x - 14) * (x + 4)^2 * (x - 2)^3 * (x + 1)^12	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	10	1/18*pi	1/81	0.0123456790	no
+Q~~~~~~~Fw~bw~w~{^w~~F~{^~w	18	14	(x - 14) * (x + 4)^2 * (x - 2)^3 * (x + 1)^12	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	11	1/18*pi	1/81	0.0123456790	no
+Q~~~~~~~Fw~bw~w~{^w~~F~{^~w	18	14	(x - 14) * (x + 4)^2 * (x - 2)^3 * (x + 1)^12	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	12	1/18*pi	1/81	0.0123456790	no
+Q~~~~~~~Fw~bw~w~{^w~~F~{^~w	18	14	(x - 14) * (x + 4)^2 * (x - 2)^3 * (x + 1)^12	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	13	1/18*pi	1/81	0.0123456790	no
+Q~~~~~~~Fw~bw~w~{^w~~F~{^~w	18	14	(x - 14) * (x + 4)^2 * (x - 2)^3 * (x + 1)^12	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	14	1/18*pi	1/81	0.0123456790	no
+Q{~~~r~~~~~{~t~r}n~f~V~{~~w	18	15	(x - 15) * (x + 3)^2 * (x - 1)^3 * x^6 * (x + 2)^6	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	1	pi	4/9	0.4444444444	no
+Q{~~~r~~~~~{~t~r}n~f~V~{~~w	18	15	(x - 15) * (x + 3)^2 * (x - 1)^3 * x^6 * (x + 2)^6	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	2	pi	4/9	0.4444444444	no
+Q{~~~r~~~~~{~t~r}n~f~V~{~~w	18	15	(x - 15) * (x + 3)^2 * (x - 1)^3 * x^6 * (x + 2)^6	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	4	1/18*pi	1/81	0.0123456790	no
+Q{~~~r~~~~~{~t~r}n~f~V~{~~w	18	15	(x - 15) * (x + 3)^2 * (x - 1)^3 * x^6 * (x + 2)^6	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	5	1/18*pi	1/81	0.0123456790	no
+Q{~~~r~~~~~{~t~r}n~f~V~{~~w	18	15	(x - 15) * (x + 3)^2 * (x - 1)^3 * x^6 * (x + 2)^6	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	6	1/18*pi	1/81	0.0123456790	no
+Q{~~~r~~~~~{~t~r}n~f~V~{~~w	18	15	(x - 15) * (x + 3)^2 * (x - 1)^3 * x^6 * (x + 2)^6	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	7	1/18*pi	1/81	0.0123456790	no
+Q{~~~r~~~~~{~t~r}n~f~V~{~~w	18	15	(x - 15) * (x + 3)^2 * (x - 1)^3 * x^6 * (x + 2)^6	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	8	1/18*pi	1/81	0.0123456790	no
+Q{~~~r~~~~~{~t~r}n~f~V~{~~w	18	15	(x - 15) * (x + 3)^2 * (x - 1)^3 * x^6 * (x + 2)^6	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	9	1/18*pi	1/81	0.0123456790	no
+Q{~~~r~~~~~{~t~r}n~f~V~{~~w	18	15	(x - 15) * (x + 3)^2 * (x - 1)^3 * x^6 * (x + 2)^6	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	10	1/18*pi	1/81	0.0123456790	no
+Q{~~~r~~~~~{~t~r}n~f~V~{~~w	18	15	(x - 15) * (x + 3)^2 * (x - 1)^3 * x^6 * (x + 2)^6	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	11	1/18*pi	1/81	0.0123456790	no
+Q{~~~r~~~~~{~t~r}n~f~V~{~~w	18	15	(x - 15) * (x + 3)^2 * (x - 1)^3 * x^6 * (x + 2)^6	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	12	1/18*pi	1/81	0.0123456790	no
+Q{~~~r~~~~~{~t~r}n~f~V~{~~w	18	15	(x - 15) * (x + 3)^2 * (x - 1)^3 * x^6 * (x + 2)^6	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	13	1/18*pi	1/81	0.0123456790	no
+Q{~~~r~~~~~{~t~r}n~f~V~{~~w	18	15	(x - 15) * (x + 3)^2 * (x - 1)^3 * x^6 * (x + 2)^6	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	14	1/18*pi	1/81	0.0123456790	no
+Q{~~~r~~~~~{~t~r}n~f~V~{~~w	18	15	(x - 15) * (x + 3)^2 * (x - 1)^3 * x^6 * (x + 2)^6	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	15	1/18*pi	1/81	0.0123456790	no
+Q}nnf~~~~~^z~|~}^t~{~V~{~~w	18	15	(x - 15) * (x + 3) * x^4 * (x^3 + 3*x^2 - 3)^4	(18,1):D18:nonab;(18,2):C18:ab	7	1/18*pi	1/81	0.0123456790	no
+Q}nnf~~~~~^z~|~}^t~{~V~{~~w	18	15	(x - 15) * (x + 3) * x^4 * (x^3 + 3*x^2 - 3)^4	(18,1):D18:nonab;(18,2):C18:ab	8	1/18*pi	1/81	0.0123456790	no
+Q}nnf~~~~~^z~|~}^t~{~V~{~~w	18	15	(x - 15) * (x + 3) * x^4 * (x^3 + 3*x^2 - 3)^4	(18,1):D18:nonab;(18,2):C18:ab	9	1/18*pi	1/81	0.0123456790	no
+Q}nnf~~~~~^z~|~}^t~{~V~{~~w	18	15	(x - 15) * (x + 3) * x^4 * (x^3 + 3*x^2 - 3)^4	(18,1):D18:nonab;(18,2):C18:ab	10	1/18*pi	1/81	0.0123456790	no
+Q}nnf~~~~~^z~|~}^t~{~V~{~~w	18	15	(x - 15) * (x + 3) * x^4 * (x^3 + 3*x^2 - 3)^4	(18,1):D18:nonab;(18,2):C18:ab	11	1/18*pi	1/81	0.0123456790	no
+Q}nnf~~~~~^z~|~}^t~{~V~{~~w	18	15	(x - 15) * (x + 3) * x^4 * (x^3 + 3*x^2 - 3)^4	(18,1):D18:nonab;(18,2):C18:ab	12	1/18*pi	1/81	0.0123456790	no
+Q}nnf~~~~~^z~|~}^t~{~V~{~~w	18	15	(x - 15) * (x + 3) * x^4 * (x^3 + 3*x^2 - 3)^4	(18,1):D18:nonab;(18,2):C18:ab	13	1/18*pi	1/81	0.0123456790	no
+Q}nnf~~~~~^z~|~}^t~{~V~{~~w	18	15	(x - 15) * (x + 3) * x^4 * (x^3 + 3*x^2 - 3)^4	(18,1):D18:nonab;(18,2):C18:ab	14	1/18*pi	1/81	0.0123456790	no
+Q}nnf~~~~~^z~|~}^t~{~V~{~~w	18	15	(x - 15) * (x + 3) * x^4 * (x^3 + 3*x^2 - 3)^4	(18,1):D18:nonab;(18,2):C18:ab	15	1/18*pi	1/81	0.0123456790	no
+Q~~~vrv|v^|}v~v~V~|~}^~|~~o	18	15	(x - 15) * (x + 3)^5 * x^12	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	1	1/18*pi	1/81	0.0123456790	no
+Q~~~vrv|v^|}v~v~V~|~}^~|~~o	18	15	(x - 15) * (x + 3)^5 * x^12	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	2	1/18*pi	1/81	0.0123456790	no
+Q~~~vrv|v^|}v~v~V~|~}^~|~~o	18	15	(x - 15) * (x + 3)^5 * x^12	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	3	1/18*pi	1/81	0.0123456790	no
+Q~~~vrv|v^|}v~v~V~|~}^~|~~o	18	15	(x - 15) * (x + 3)^5 * x^12	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	4	1/18*pi	1/81	0.0123456790	no
+Q~~~vrv|v^|}v~v~V~|~}^~|~~o	18	15	(x - 15) * (x + 3)^5 * x^12	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	5	1/18*pi	1/81	0.0123456790	no
+Q~~~vrv|v^|}v~v~V~|~}^~|~~o	18	15	(x - 15) * (x + 3)^5 * x^12	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	6	1/18*pi	1/81	0.0123456790	no
+Q~~~vrv|v^|}v~v~V~|~}^~|~~o	18	15	(x - 15) * (x + 3)^5 * x^12	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	7	1/18*pi	1/81	0.0123456790	no
+Q~~~vrv|v^|}v~v~V~|~}^~|~~o	18	15	(x - 15) * (x + 3)^5 * x^12	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	8	1/18*pi	1/81	0.0123456790	no
+Q~~~vrv|v^|}v~v~V~|~}^~|~~o	18	15	(x - 15) * (x + 3)^5 * x^12	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	9	1/18*pi	1/81	0.0123456790	no
+Q~~~vrv|v^|}v~v~V~|~}^~|~~o	18	15	(x - 15) * (x + 3)^5 * x^12	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	10	1/18*pi	1/81	0.0123456790	no
+Q~~~vrv|v^|}v~v~V~|~}^~|~~o	18	15	(x - 15) * (x + 3)^5 * x^12	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	11	1/18*pi	1/81	0.0123456790	no
+Q~~~vrv|v^|}v~v~V~|~}^~|~~o	18	15	(x - 15) * (x + 3)^5 * x^12	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	12	1/18*pi	1/81	0.0123456790	no
+Q~~~vrv|v^|}v~v~V~|~}^~|~~o	18	15	(x - 15) * (x + 3)^5 * x^12	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	13	1/18*pi	1/81	0.0123456790	no
+Q~~~vrv|v^|}v~v~V~|~}^~|~~o	18	15	(x - 15) * (x + 3)^5 * x^12	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	14	1/18*pi	1/81	0.0123456790	no
+Q~~~vrv|v^|}v~v~V~|~}^~|~~o	18	15	(x - 15) * (x + 3)^5 * x^12	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	15	1/18*pi	1/81	0.0123456790	no
+Q~~~vrv|v^|}v~v~V~|~}^~|~~o	18	15	(x - 15) * (x + 3)^5 * x^12	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	16	1/3*pi	4/9	0.4444444444	no
+Q~~~vrv|v^|}v~v~V~|~}^~|~~o	18	15	(x - 15) * (x + 3)^5 * x^12	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	17	1/3*pi	4/9	0.4444444444	no
+Q~~~~~~~v|~n}~|~|~}~~n~|~~w	18	16	(x - 16) * (x + 2)^8 * x^9	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	1	1/18*pi	1/81	0.0123456790	no
+Q~~~~~~~v|~n}~|~|~}~~n~|~~w	18	16	(x - 16) * (x + 2)^8 * x^9	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	2	1/18*pi	1/81	0.0123456790	no
+Q~~~~~~~v|~n}~|~|~}~~n~|~~w	18	16	(x - 16) * (x + 2)^8 * x^9	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	3	1/18*pi	1/81	0.0123456790	no
+Q~~~~~~~v|~n}~|~|~}~~n~|~~w	18	16	(x - 16) * (x + 2)^8 * x^9	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	4	1/18*pi	1/81	0.0123456790	no
+Q~~~~~~~v|~n}~|~|~}~~n~|~~w	18	16	(x - 16) * (x + 2)^8 * x^9	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	5	1/18*pi	1/81	0.0123456790	no
+Q~~~~~~~v|~n}~|~|~}~~n~|~~w	18	16	(x - 16) * (x + 2)^8 * x^9	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	6	1/18*pi	1/81	0.0123456790	no
+Q~~~~~~~v|~n}~|~|~}~~n~|~~w	18	16	(x - 16) * (x + 2)^8 * x^9	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	7	1/18*pi	1/81	0.0123456790	no
+Q~~~~~~~v|~n}~|~|~}~~n~|~~w	18	16	(x - 16) * (x + 2)^8 * x^9	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	8	1/18*pi	1/81	0.0123456790	no
+Q~~~~~~~v|~n}~|~|~}~~n~|~~w	18	16	(x - 16) * (x + 2)^8 * x^9	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	9	1/18*pi	1/81	0.0123456790	no
+Q~~~~~~~v|~n}~|~|~}~~n~|~~w	18	16	(x - 16) * (x + 2)^8 * x^9	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	10	1/18*pi	1/81	0.0123456790	no
+Q~~~~~~~v|~n}~|~|~}~~n~|~~w	18	16	(x - 16) * (x + 2)^8 * x^9	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	11	1/18*pi	1/81	0.0123456790	no
+Q~~~~~~~v|~n}~|~|~}~~n~|~~w	18	16	(x - 16) * (x + 2)^8 * x^9	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	12	1/18*pi	1/81	0.0123456790	no
+Q~~~~~~~v|~n}~|~|~}~~n~|~~w	18	16	(x - 16) * (x + 2)^8 * x^9	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	13	1/18*pi	1/81	0.0123456790	no
+Q~~~~~~~v|~n}~|~|~}~~n~|~~w	18	16	(x - 16) * (x + 2)^8 * x^9	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	14	1/18*pi	1/81	0.0123456790	no
+Q~~~~~~~v|~n}~|~|~}~~n~|~~w	18	16	(x - 16) * (x + 2)^8 * x^9	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	15	1/18*pi	1/81	0.0123456790	no
+Q~~~~~~~v|~n}~|~|~}~~n~|~~w	18	16	(x - 16) * (x + 2)^8 * x^9	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	16	1/18*pi	1/81	0.0123456790	no
+Q~~~~~~~~~~~~~~~~~~~~~~~~~w	18	17	(x - 17) * (x + 1)^17	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	1	1/18*pi	1/81	0.0123456790	no
+Q~~~~~~~~~~~~~~~~~~~~~~~~~w	18	17	(x - 17) * (x + 1)^17	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	2	1/18*pi	1/81	0.0123456790	no
+Q~~~~~~~~~~~~~~~~~~~~~~~~~w	18	17	(x - 17) * (x + 1)^17	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	3	1/18*pi	1/81	0.0123456790	no
+Q~~~~~~~~~~~~~~~~~~~~~~~~~w	18	17	(x - 17) * (x + 1)^17	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	4	1/18*pi	1/81	0.0123456790	no
+Q~~~~~~~~~~~~~~~~~~~~~~~~~w	18	17	(x - 17) * (x + 1)^17	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	5	1/18*pi	1/81	0.0123456790	no
+Q~~~~~~~~~~~~~~~~~~~~~~~~~w	18	17	(x - 17) * (x + 1)^17	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	6	1/18*pi	1/81	0.0123456790	no
+Q~~~~~~~~~~~~~~~~~~~~~~~~~w	18	17	(x - 17) * (x + 1)^17	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	7	1/18*pi	1/81	0.0123456790	no
+Q~~~~~~~~~~~~~~~~~~~~~~~~~w	18	17	(x - 17) * (x + 1)^17	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	8	1/18*pi	1/81	0.0123456790	no
+Q~~~~~~~~~~~~~~~~~~~~~~~~~w	18	17	(x - 17) * (x + 1)^17	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	9	1/18*pi	1/81	0.0123456790	no
+Q~~~~~~~~~~~~~~~~~~~~~~~~~w	18	17	(x - 17) * (x + 1)^17	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	10	1/18*pi	1/81	0.0123456790	no
+Q~~~~~~~~~~~~~~~~~~~~~~~~~w	18	17	(x - 17) * (x + 1)^17	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	11	1/18*pi	1/81	0.0123456790	no
+Q~~~~~~~~~~~~~~~~~~~~~~~~~w	18	17	(x - 17) * (x + 1)^17	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	12	1/18*pi	1/81	0.0123456790	no
+Q~~~~~~~~~~~~~~~~~~~~~~~~~w	18	17	(x - 17) * (x + 1)^17	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	13	1/18*pi	1/81	0.0123456790	no
+Q~~~~~~~~~~~~~~~~~~~~~~~~~w	18	17	(x - 17) * (x + 1)^17	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	14	1/18*pi	1/81	0.0123456790	no
+Q~~~~~~~~~~~~~~~~~~~~~~~~~w	18	17	(x - 17) * (x + 1)^17	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	15	1/18*pi	1/81	0.0123456790	no
+Q~~~~~~~~~~~~~~~~~~~~~~~~~w	18	17	(x - 17) * (x + 1)^17	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	16	1/18*pi	1/81	0.0123456790	no
+Q~~~~~~~~~~~~~~~~~~~~~~~~~w	18	17	(x - 17) * (x + 1)^17	(18,1):D18:nonab;(18,2):C18:ab;(18,3):C3xS3:nonab;(18,4):(C3xC3):C2:nonab;(18,5):C6xC3:ab	17	1/18*pi	1/81	0.0123456790	no

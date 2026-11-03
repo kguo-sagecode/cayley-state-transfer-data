@@ -1,0 +1,60 @@
+cff-version: 1.2.0
+message: >-
+  If you use these data or this code, please cite this dataset and the paper
+  "Perfect state transfer and Cayley presentations" (arXiv:2608.20476).
+title: "Cayley graphs and state transfer: data and code"
+type: dataset
+version: 1.0.0
+license:
+  - CC-BY-4.0
+  - MIT
+authors:
+  - given-names: Arnbjörg Soffía
+    family-names: Árnadóttir
+    orcid: "https://orcid.org/0000-0003-2733-2542"
+    affiliation: University of Iceland
+    website: "https://homepages.dcc.ufmg.br/~arnbjorg.soffia/"
+  - given-names: Krystal
+    family-names: Guo
+    orcid: "https://orcid.org/0000-0001-8776-537X"
+    affiliation: University of Amsterdam
+    website: "https://krystalguo.com"
+keywords:
+  - Cayley graphs
+  - vertex-transitive graphs
+  - perfect state transfer
+  - peak state transfer
+  - continuous-time quantum walks
+references:
+  - type: article
+    title: "Perfect state transfer and Cayley presentations"
+    authors:
+      - given-names: Arnbjörg Soffía
+        family-names: Árnadóttir
+      - given-names: Krystal
+        family-names: Guo
+    year: 2026
+    identifiers:
+      - type: doi
+        value: 10.48550/arXiv.2608.20476
+    url: "https://arxiv.org/abs/2608.20476"
+  - type: dataset
+    title: "Vertex-transitive Graphs On Fewer Than 48 Vertices"
+    authors:
+      - given-names: Gordon
+        family-names: Royle
+      - given-names: Derek
+        family-names: Holt
+    year: 2020
+    doi: 10.5281/zenodo.4010122
+  - type: article
+    title: "Peak state transfer in continuous quantum walks"
+    authors:
+      - given-names: Gabriel
+        family-names: Coutinho
+      - given-names: Krystal
+        family-names: Guo
+      - given-names: Vincent
+        family-names: Schmeits
+    year: 2025
+    url: "https://arxiv.org/abs/2505.11986"
