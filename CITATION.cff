@@ -5,6 +5,15 @@ message: >-
 title: "Cayley graphs and state transfer: data and code"
 type: dataset
 version: 1.0.0
+doi: 10.5281/zenodo.23925744
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.23925744
+    description: Concept DOI (all versions)
+  - type: doi
+    value: 10.5281/zenodo.23925745
+    description: Version 1.0.0
+repository-code: "https://github.com/kguo-sagecode/cayley-state-transfer-data"
 license:
   - CC-BY-4.0
   - MIT

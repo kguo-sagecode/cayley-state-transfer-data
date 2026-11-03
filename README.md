@@ -1,5 +1,7 @@
 # Cayley graphs and state transfer: data and code
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23925744.svg)](https://doi.org/10.5281/zenodo.23925744)
+
 Data and [SageMath](https://www.sagemath.org) code accompanying
 
 > A. S. Árnadóttir and K. Guo, *Perfect state transfer and Cayley
@@ -22,11 +24,23 @@ If you use these data or this code, please cite **both** the dataset and the
 paper.
 
 - Dataset: A. S. Árnadóttir and K. Guo, *Cayley graphs and state transfer:
-  data and code*, version 1.0.0, Zenodo, 2026. DOI: *(added on release)*.
+  data and code*, Zenodo, 2026.
+  [doi:10.5281/zenodo.23925744](https://doi.org/10.5281/zenodo.23925744).
+  This DOI always resolves to the latest version. Version 1.0.0 alone is
+  [doi:10.5281/zenodo.23925745](https://doi.org/10.5281/zenodo.23925745).
 - Paper: A. S. Árnadóttir and K. Guo, *Perfect state transfer and Cayley
   presentations*, arXiv:2608.20476, 2026.
 
 ```bibtex
+@misc{ArnGuoData2026,
+  author    = {{\'A}rnad{\'o}ttir, Arnbj{\"o}rg Soff{\'i}a and Guo, Krystal},
+  title     = {{C}ayley graphs and state transfer: data and code},
+  year      = {2026},
+  publisher = {Zenodo},
+  doi       = {10.5281/zenodo.23925744},
+  url       = {https://doi.org/10.5281/zenodo.23925744}
+}
+
 @misc{ArnGuo2026,
   author        = {{\'A}rnad{\'o}ttir, Arnbj{\"o}rg Soff{\'i}a and Guo, Krystal},
   title         = {Perfect state transfer and {C}ayley presentations},
